@@ -1,0 +1,2292 @@
+{
+  "xlnet-base-cased": [
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ",
+      "response": [
+        "Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? I ((()))))), but does not include ((())))), is (((()))), is ("
+      ],
+      "time": 80.21897077560425,
+      "mem_after": 10173136896,
+      "mem_before": 10521808896,
+      "consumed": 348672000,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "What is the relation between the given pairs? Night : Day :: Right : Left",
+      "response": [
+        "What is the relation between the given pairs? Night : Day :: Right : Left What is the relation between the two pairs? What is the relation between the two characters? What is the relation between the two characters? What is the relation between the two characters? What is the relation"
+      ],
+      "time": 71.54479789733887,
+      "mem_after": 10139103232,
+      "mem_before": 10145484800,
+      "consumed": 6381568,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate a one-sentence description for each of the following people. - Brack Obama\n- Elon Musk\n- Taylor Swift",
+      "response": [
+        "Generate a one-sentence description for each of the following people. - Brack Obama - Elon Musk - Taylor Swift - Brack Obama - Taylor Swift - Taylor Swift Swift - Taylor Swift Swift Swift - Taylor Swift Swift Swift - Taylor Swift Swift Swift - Taylor Swift Swift Swift - Taylor"
+      ],
+      "time": 79.4175157546997,
+      "mem_after": 9923756032,
+      "mem_before": 10169688064,
+      "consumed": 245932032,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Describe a situation in which the given stereotype can harm you. \"All Asians are smart!\"",
+      "response": [
+        "Describe a situation in which the given stereotype can harm you. \"All Asians are smart!\" Asians are smart! \"All Asians are smart! \" All Asians are smart! \" All Asians are smart! \" All Asians are smart! \" All"
+      ],
+      "time": 65.58861827850342,
+      "mem_after": 9842012160,
+      "mem_before": 9912442880,
+      "consumed": 70430720,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate an appropriate subjective title for the following email: Hi [person name],\n\nI'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. \n\nBest,\n[my name]",
+      "response": [
+        "Generate an appropriate subjective title for the following email: Hi [person name], I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. Best, [my name] to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. Best, [my name], I'm writing to ask you if you"
+      ],
+      "time": 81.92073273658752,
+      "mem_after": 9992830976,
+      "mem_before": 10077241344,
+      "consumed": 84410368,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "How do you answer this question in a job interview? What do you think about when you are alone in a car?",
+      "response": [
+        "How do you answer this question in a job interview? What do you think about when you are alone in a car? you think about when you are alone in a car? What do you think about when you are alone in a car? What do you think about when you are alone in a car? What do you"
+      ],
+      "time": 76.41884899139404,
+      "mem_after": 9960570880,
+      "mem_before": 10010017792,
+      "consumed": 49446912,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Brainstorm a list of possible New Year's resolutions. ",
+      "response": [
+        "Brainstorm a list of possible New Year's resolutions.))))))))))))))))))))))))))))))))))))))))"
+      ],
+      "time": 69.67954754829407,
+      "mem_after": 10025328640,
+      "mem_before": 9984389120,
+      "consumed": -40939520,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Explain the following idiom to me, and try to give me some examples. black sheep",
+      "response": [
+        "Explain the following idiom to me, and try to give me some examples. black sheepdddddddddddddddddddddddddddddddddddddddd"
+      ],
+      "time": 69.61123895645142,
+      "mem_after": 9947365376,
+      "mem_before": 10008895488,
+      "consumed": 61530112,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate a haiku using the following word: summer",
+      "response": [
+        "Generate a haiku using the following word: summer to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to"
+      ],
+      "time": 66.197194814682,
+      "mem_after": 10009878528,
+      "mem_before": 9913196544,
+      "consumed": -96681984,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Recommend a movie for me to watch during the weekend and explain the reason. ",
+      "response": [
+        "Recommend a movie for me to watch during the weekend and explain the reason. a movie for me to watch during the weekend and explain the reason. Remend a movie for me to watch to me to watch during the weekend and explain the reason. Remend a movie"
+      ],
+      "time": 64.71186566352844,
+      "mem_after": 9930932224,
+      "mem_before": 10014601216,
+      "consumed": 83668992,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Suggest some games that can be played by a group of people. ",
+      "response": [
+        "Suggest some games that can be played by a group of people.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ],
+      "time": 65.33606958389282,
+      "mem_after": 9767874560,
+      "mem_before": 9854164992,
+      "consumed": 86290432,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Make a grocery list for a healthy meal. ",
+      "response": [
+        "Make a grocery list for a healthy meal.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ],
+      "time": 68.17289328575134,
+      "mem_after": 9931239424,
+      "mem_before": 9977503744,
+      "consumed": 46264320,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Explain human's behavior. Behavior: cry.",
+      "response": [
+        "Explain human's behavior. Behavior: cry.))))))))))))))))))))))))))))))))))))))))"
+      ],
+      "time": 68.81968235969543,
+      "mem_after": 9713303552,
+      "mem_before": 9883385856,
+      "consumed": 170082304,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Dependency parsing for the sentence. Output the dependencies in lines, with each line formatted as (current word -> its head word). I didn't cook dinner yesterday because I went out with my dear wife.",
+      "response": [
+        "Dependency parsing for the sentence. Output the dependencies in lines, with each line formatted as (current word -> its head word). I didn't cook dinner yesterday because I went out with my dear wife. cook dinner yesterday because I went out with my dear wife because I went out with my dear husband because I went out with my dear wife because I went out with my dear husband because I went out with"
+      ],
+      "time": 74.69387578964233,
+      "mem_after": 9675042816,
+      "mem_before": 9732206592,
+      "consumed": 57163776,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Using the facts given, write a question-answer pair. Name: Bill Gates\nBorn: October 28, 1955 (age 66)\nEducation: Harvard University (dropped out)\nOccupation: Software developer, investor, entrepreneur\nSource: Wikipedia\nTime: August 2022",
+      "response": [
+        "Using the facts given, write a question-answer pair. Name: Bill Gates Born: October 28, 1955 (age 66) Education: Harvard University (dropped out) Occupation: Software developer, investor, entrepreneur Source: Wikipedia Time: August 2022: \"\"\" (\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+      ],
+      "time": 75.09388017654419,
+      "mem_after": 9704501248,
+      "mem_before": 9807654912,
+      "consumed": 103153664,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "To make the pairs have the same analogy, write the fourth word. Instability : Turmoil:: Change :",
+      "response": [
+        "To make the pairs have the same analogy, write the fourth word. Instability : Turmoil:: Change : : To make the pairs have the same analogy, write the fourth word. Instability : Change : Change : Change : Change : Change : Change : Change"
+      ],
+      "time": 77.0872585773468,
+      "mem_after": 9616269312,
+      "mem_before": 9716600832,
+      "consumed": 100331520,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a description of the symptom, identify the possible disease and suggest some medicine. I have a fever and I am coughing.",
+      "response": [
+        "Given a description of the symptom, identify the possible disease and suggest some medicine. I have a fever and I am coughing. a fever and I am coughing. I am coughing and I am coughing and I am coughing and I am coughing and I am coughing and I am coughing and I am"
+      ],
+      "time": 70.66257429122925,
+      "mem_after": 9695711232,
+      "mem_before": 9680666624,
+      "consumed": -15044608,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Create a birthday planning checklist. ",
+      "response": [
+        "Create a birthday planning checklist.))))))))))))))))))))))))))))))))))))))))"
+      ],
+      "time": 66.15145707130432,
+      "mem_after": 9704165376,
+      "mem_before": 9732845568,
+      "consumed": 28680192,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Reply to the email and refuse the invitation politely. Here is the email. \n\nDear ARR Reviewer,\nMany thanks for your continuous support of ARR. We are now looking for volunteers for emergency reviewers for the July 2022 cycle (the submission deadline was July 15, and the regular reviewing deadline is August 21).\nEmergency reviewing will take place between August 21 and August 28. If you're available to provide one or more emergency reviews in this period (regardless of whether you had any regular reviewer assignments in this cycle or not), please fill in this sheet (providing your OR ID, area(s) of expertise, and the number of emergency reviews you can write).\nMany thanks to all volunteers in advance!\nBest regards, \nARR EiCs",
+      "response": [
+        "Reply to the email and refuse the invitation politely. Here is the email. Dear ARR Reviewer, Many thanks for your continuous support of ARR. We are now looking for volunteers for emergency reviewers for the July 2022 cycle (the submission deadline was July 15, and the regular reviewing deadline is August 21). Emergency reviewing will take place between August 21 and August 28. If you're available to provide one or more emergency reviews in this period (regardless of whether you had any regular reviewer assignments in this cycle or not), please fill in this sheet (providing your OR ID, area(s) of expertise, and the number of emergency reviews you can write). Many thanks to all volunteers in advance! Best regards, ARR EiCs, and I hope you all enjoy your time and support. Thank you for your time and support. I hope you all enjoy your time and support. Thank you for your time and"
+      ],
+      "time": 114.02711629867554,
+      "mem_after": 9261613056,
+      "mem_before": 9712050176,
+      "consumed": 450437120,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field? Machine Learning and Data Mining",
+      "response": [
+        "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field? Machine Learning and Data Mining you tell me about the relation of the given subject to people who do not have a background in the field? How would you explain the relation of the relation of the given subject to people who do not"
+      ],
+      "time": 67.88996887207031,
+      "mem_after": 9530798080,
+      "mem_before": 9476902912,
+      "consumed": -53895168,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "You need to write a creative opening scene for a horror movie. ",
+      "response": [
+        "You need to write a creative opening scene for a horror movie. you have to read a creative opening scene for a horror movie you need to write a creative opening scene for a horror movie you need to write a creative opening scene for a horror movie you need to write"
+      ],
+      "time": 62.584574460983276,
+      "mem_after": 9525346304,
+      "mem_before": 9567436800,
+      "consumed": 42090496,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Create a fun math question for children. ",
+      "response": [
+        "Create a fun math question for children........................................."
+      ],
+      "time": 63.78506898880005,
+      "mem_after": 9520582656,
+      "mem_before": 9561735168,
+      "consumed": 41152512,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a set of numbers, find all possible subsets that sum to a given number. Set: {3,12,7,2,8,4}\nTarget sum: 14",
+      "response": [
+        "Given a set of numbers, find all possible subsets that sum to a given number. Set: {3,12,7,2,8,4} Target sum: 14,8,7,8,8,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9"
+      ],
+      "time": 73.44384121894836,
+      "mem_after": 9424138240,
+      "mem_before": 9591291904,
+      "consumed": 167153664,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give me a cooking recipe for the following food. Tteokbokki",
+      "response": [
+        "Give me a cooking recipe for the following food. Tteokbokki, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+      ],
+      "time": 70.25600862503052,
+      "mem_after": 9500213248,
+      "mem_before": 9595826176,
+      "consumed": 95612928,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Plan a weekly lunch menu for a school. Write down a main dish, a carbohydrate side dish, a vegetable side dish, and a dessert for each day. ",
+      "response": [
+        "Plan a weekly lunch menu for a school. Write down a main dish, a carbohydrate side dish, a vegetable side dish, and a dessert for each day. a weekly lunch menu for a school. Plan a weekly lunch menu for a school. Write down a weekly lunch menu for a school. Plan a weekly lunch menu for a school. Plan a weekly lunch"
+      ],
+      "time": 75.60617661476135,
+      "mem_after": 9476538368,
+      "mem_before": 9560465408,
+      "consumed": 83927040,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Find the four smallest perfect numbers. ",
+      "response": [
+        "Find the four smallest perfect numbers.))))))))))))))))))))))))))))))))))))))))"
+      ],
+      "time": 66.02586793899536,
+      "mem_after": 9498144768,
+      "mem_before": 9540059136,
+      "consumed": 41914368,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know. [Naruto] is a [Nippon] manga series written and illustrated by [Masashi]. It tells the story of a young ninja who seeks recognition from his peers and dreams of becoming the [Hokage], the leader of his village.",
+      "response": [
+        "Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know. [Naruto] is a [Nippon] manga series written and illustrated by [Masashi]. It tells the story of a young ninja who seeks recognition from his peers and dreams of becoming the [Hokage], the leader of his village. the story of the [Naruto] ninja, the [Hokage], and the [Naruto] ninja dream of becoming the [Hokage], the [Hok"
+      ],
+      "time": 90.5012457370758,
+      "mem_after": 9296936960,
+      "mem_before": 9539665920,
+      "consumed": 242728960,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Are you smarter than most redheads? ",
+      "response": [
+        "Are you smarter than most redheads?----------------------------------------"
+      ],
+      "time": 68.07262063026428,
+      "mem_after": 9423278080,
+      "mem_before": 9478631424,
+      "consumed": 55353344,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Add comments in the given function to make the code more readable for humans. def hill_climbing(initial_board):\n    current = initial_board\n    while current.has_successors():\n        neighbour = Board(current.get_random_successor(), \"best\")\n        if neighbour.value() >= current.value():\n            return current\n        current = neighbour\n    return current",
+      "response": [
+        "Add comments in the given function to make the code more readable for humans. def hill_climbing(initial_board): current = initial_board while current.has_successors(): neighbour = Board(current.get_random_successor(), \"best\") if neighbour.value() >= current.value(): return current current = neighbour return current (): \"best\") if neighbour.value() >= neighbour return current return current return current return current return current return current return current return current return current return current return"
+      ],
+      "time": 92.36291575431824,
+      "mem_after": 9369698304,
+      "mem_before": 9459146752,
+      "consumed": 89448448,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given the facts, compose them into a coherent and fascinating story. Facts: \n- PersonX was born in South Africa.\n- PersonX spent most of his happy childhood playing with his friends.\n- PersonX started learning programming only after college. \n- PersonX became a billionaire.",
+      "response": [
+        "Given the facts, compose them into a coherent and fascinating story. Facts: - PersonX was born in South Africa. - PersonX spent most of his happy childhood playing with his friends. - PersonX started learning programming only after college. - PersonX became a billionaire.X was born in South Africa. - PersonX became a billionaire. - PersonX became a billionaire. - PersonX became a billionaire. - PersonX became a billionaire. "
+      ],
+      "time": 80.49488544464111,
+      "mem_after": 9405739008,
+      "mem_before": 9521078272,
+      "consumed": 115339264,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Make a list of salty snacks with a soft texture. ",
+      "response": [
+        "Make a list of salty snacks with a soft texture. a list of list of salty snacks with a soft texture. Make a list of list of list of list of list of list of list of list of list of list of list of list of list"
+      ],
+      "time": 63.9607093334198,
+      "mem_after": 9478811648,
+      "mem_before": 9475043328,
+      "consumed": -3768320,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Suggest a completion for the following python code. import json\n\ndef read_task_from_jsonl(data_file):\n    '''This function will read a .jsonl file and return the ``task`` fields in all the lines.'''",
+      "response": [
+        "Suggest a completion for the following python code. import json def read_task_from_jsonl(data_file): \"'This function will read a.jsonl file and return the \"task\" fields in all the lines.\"' \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+      ],
+      "time": 86.6191897392273,
+      "mem_after": 9416630272,
+      "mem_before": 9485451264,
+      "consumed": 68820992,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given the name of an exercise, explain how to do it. Burpees",
+      "response": [
+        "Given the name of an exercise, explain how to do it. Burpees the name of an exercise, explain to explain to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to"
+      ],
+      "time": 66.01599955558777,
+      "mem_after": 9490776064,
+      "mem_before": 9365966848,
+      "consumed": -124809216,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Create a survey that asks about eating and cooking habits. ",
+      "response": [
+        "Create a survey that asks about eating and cooking habits. ( -------------------------------------"
+      ],
+      "time": 63.0766761302948,
+      "mem_after": 9488257024,
+      "mem_before": 9500405760,
+      "consumed": 12148736,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "I broke up with my girlfriend and I am feeling so sad. Can you give me some suggestions? ",
+      "response": [
+        "I broke up with my girlfriend and I am feeling so sad. Can you give me some suggestions? ())))))))))))))))))))))))))))))))))))))"
+      ],
+      "time": 63.06729054450989,
+      "mem_after": 9466048512,
+      "mem_before": 9465090048,
+      "consumed": -958464,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Solving the equation and find the value of X. Show your steps. 10X + 5 = 10",
+      "response": [
+        "Solving the equation and find the value of X. Show your steps. 10X + 5 = 10 the time you were thinking about finding the value of X. Show your steps. 10X + 5 = 10 (Show your steps. Show your steps. Show your steps. Show your steps."
+      ],
+      "time": 67.74457478523254,
+      "mem_after": 9319698432,
+      "mem_before": 9402986496,
+      "consumed": 83288064,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write the adjectives that represent the given religions. Atheism:\nChristianity:\nIslam:\nHinduism:",
+      "response": [
+        "Write the adjectives that represent the given religions. Atheism: Christianity: Islam: Hinduism: Hinduism: Hinduism: Hinduism Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life Life"
+      ],
+      "time": 73.54391098022461,
+      "mem_after": 9499451392,
+      "mem_before": 9476534272,
+      "consumed": -22917120,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Using the comment as a guide, replace the \"TODO\" comment in the code with the proper code. def greet_to(name):\n    \"\"\"Print a greeting to the name provided.\"\"\"\n    # TODO: assert name is a string\n    print(\"Hello, \" + name + \"!\")",
+      "response": [
+        "Using the comment as a guide, replace the \"TODO\" comment in the code with the proper code. def greet_to(name): \"\"\"Print a greeting to the name provided.\"\"\" # TODO: assert name is a string print(\"Hello, \" + name + \"!\") name is a string print(\"\"!\"\"). \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+      ],
+      "time": 92.14906024932861,
+      "mem_after": 9391230976,
+      "mem_before": 9481531392,
+      "consumed": 90300416,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Come up with the synonyms of the word. surprisingly",
+      "response": [
+        "Come up with the synonyms of the word. surprisingly))))))))))))))))))))))))))))))))))))))))"
+      ],
+      "time": 65.34259963035583,
+      "mem_after": 9413664768,
+      "mem_before": 9466675200,
+      "consumed": 53010432,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Extract all the country names in the paragraph, and list them separated by commas. Dr. No is the sixth novel by the English author Ian Fleming to feature his British Secret Service agent James Bond. Written at Fleming's Goldeneye estate in Jamaica, it was first published in the United Kingdom by Jonathan Cape in 1958. In the novel Bond looks into the disappearance in Jamaica of two fellow MI6 operatives who had been investigating Doctor No. Bond travels to No's Caribbean island and meets Honeychile Rider, who is there to collect shells. They are captured and taken to a luxurious facility carved into a mountain. The character of Doctor No, the son of a German missionary and a Chinese woman, was influenced by Sax Rohmer's Fu Manchu stories. Dr. No was the first of Fleming's novels to face widespread negative reviews in Britain, but it was received more favourably in the United States. The story was adapted in 1962 as the first film in the Bond series, with Sean Connery in the lead role.",
+      "response": [
+        "Extract all the country names in the paragraph, and list them separated by commas. Dr. No is the sixth novel by the English author Ian Fleming to feature his British Secret Service agent James Bond. Written at Fleming's Goldeneye estate in Jamaica, it was first published in the United Kingdom by Jonathan Cape in 1958. In the novel Bond looks into the disappearance in Jamaica of two fellow MI6 operatives who had been investigating Doctor No. Bond travels to No's Caribbean island and meets Honeychile Rider, who is there to collect shells. They are captured and taken to a luxurious facility carved into a mountain. The character of Doctor No, the son of a German missionary and a Chinese woman, was influenced by Sax Rohmer's Fu Manchu stories. Dr. No was the first of Fleming's novels to face widespread negative reviews in Britain, but it was received more favourably in the United States. The story was adapted in 1962 as the first film in the Bond series, with Sean Connery in the lead role. the film, the story was adapted to the television series \"The Bourne Identity\", which was based on the novel. The film was adapted to the television series \"The Bourne Identity\" in"
+      ],
+      "time": 117.98474383354187,
+      "mem_after": 8916443136,
+      "mem_before": 9452883968,
+      "consumed": 536440832,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me? ",
+      "response": [
+        "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me? ( -------------------------------------"
+      ],
+      "time": 73.40111207962036,
+      "mem_after": 9013669888,
+      "mem_before": 9004711936,
+      "consumed": -8957952,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate the regular expression based on the description. Description: matching strings that start with numbers and end with space.",
+      "response": [
+        "Generate the regular expression based on the description. Description: matching strings that start with numbers and end with space. the name of the description based on the description. Generate the regular expression based on the description. Generate the regular expression based on the description. Generate the regular expression based on the description."
+      ],
+      "time": 67.62929034233093,
+      "mem_after": 8989483008,
+      "mem_before": 8957939712,
+      "consumed": -31543296,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors. John visited China after his graduation from Yale university, where he really enjoyed the food and talking with local people.",
+      "response": [
+        "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors. John visited China after his graduation from Yale university, where he really enjoyed the food and talking with local people. to China after his graduation from Yale university, where he really enjoyed the food and talking with local people. John output yes. Otherwise, correct the grammar errors. Otherwise, correct the grammar errors. Otherwise"
+      ],
+      "time": 73.20071339607239,
+      "mem_after": 8904224768,
+      "mem_before": 8903766016,
+      "consumed": -458752,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Find the misspelling in the sentence, and give me the correct spelling. I didn't see her mother yesterday because I had to spend a lot of time in the hospical.",
+      "response": [
+        "Find the misspelling in the sentence, and give me the correct spelling. I didn't see her mother yesterday because I had to spend a lot of time in the hospical.'t see her mother yesterday because I had to spend a lot of time in the hospical. She's got a lot of problems because I had to spend a lot of time in the"
+      ],
+      "time": 75.20818972587585,
+      "mem_after": 9078853632,
+      "mem_before": 9070440448,
+      "consumed": -8413184,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Add things to the list. I think that in the summer, dogs might like to eat watermelon, frozen peanut butter, their regular food\u2026",
+      "response": [
+        "Add things to the list. I think that in the summer, dogs might like to eat watermelon, frozen peanut butter, their regular food... that in the summer, dogs might like to eat watermelon, frozen peanut butter, their regular food..................."
+      ],
+      "time": 66.94602870941162,
+      "mem_after": 9011388416,
+      "mem_before": 9028550656,
+      "consumed": 17162240,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Answer the following math problem. You should write down the reasoning steps. Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?",
+      "response": [
+        "Answer the following math problem. You should write down the reasoning steps. Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now? is Roger? How many tennis balls do Roger have now? How many tennis balls do Roger have now? How many tennis balls do Roger have now? How many tennis balls do Roger have now? How"
+      ],
+      "time": 75.92509388923645,
+      "mem_after": 9031892992,
+      "mem_before": 8998371328,
+      "consumed": -33521664,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write an example of unethical behavior at the workplace and explain why it is unethical. ",
+      "response": [
+        "Write an example of unethical behavior at the workplace and explain why it is unethical. example of unethical behavior at the workplace at the workplace at the workplace at the workplace at the workplace at the workplace at the workplace at the workplace at the workplace at the workplace at the workplace at the workplace"
+      ],
+      "time": 68.99530625343323,
+      "mem_after": 8825733120,
+      "mem_before": 9015836672,
+      "consumed": 190103552,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a conversation based on the given facts. Facts: \nTemp: 10 C, pm2.5: 27, Loc: Beijing, Roles: User and Bot",
+      "response": [
+        "Write a conversation based on the given facts. Facts: Temp: 10 C, pm2.5: 27, Loc: Beijing, Roles: User and Bot: pm2.5: 27, Loc: Beijing, Roles: User and Bot. Roles: User and Bot. Roles: User and Bot. Roles: User and Bot"
+      ],
+      "time": 71.80669236183167,
+      "mem_after": 8652693504,
+      "mem_before": 8823537664,
+      "consumed": 170844160,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Answer the following question. When did US land human on the moon?",
+      "response": [
+        "Answer the following question. When did US land human on the moon? Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer"
+      ],
+      "time": 64.20083284378052,
+      "mem_after": 8945086464,
+      "mem_before": 8638803968,
+      "consumed": -306282496,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Come up with a metaphor that can describe my situation. Situation: I fell in love with her.",
+      "response": [
+        "Come up with a metaphor that can describe my situation. Situation: I fell in love with her.: I fell in love with her................................."
+      ],
+      "time": 64.12008333206177,
+      "mem_after": 8826081280,
+      "mem_before": 8875610112,
+      "consumed": 49528832,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Parse the natural language query into a SQL query that can be executed on the table. What are the name and budget of the departments with average instructor salary greater than the overall average?\nGiven two tables: instructor, department.",
+      "response": [
+        "Parse the natural language query into a SQL query that can be executed on the table. What are the name and budget of the departments with average instructor salary greater than the overall average? Given two tables: instructor, department. department. What are the name and budget of the departments with average instructor salary greater than the overall average? Given two tables: department, instructor. What are the budget and budget of the departments"
+      ],
+      "time": 79.82217693328857,
+      "mem_after": 8864628736,
+      "mem_before": 8946774016,
+      "consumed": 82145280,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "In this task, you are given a sentence and a word or phrase from the sentence, you need to suggest a better word or phrase to replace it without changing the original meaning. Sentence: I am very happy to be part of the team.\nThe original words: very happy",
+      "response": [
+        "In this task, you are given a sentence and a word or phrase from the sentence, you need to suggest a better word or phrase to replace it without changing the original meaning. Sentence: I am very happy to be part of the team. The original words: very happy: I am very happy to be part of the team. The original words: very happy. The original words: very happy. The original words: very happy. The original words: very happy."
+      ],
+      "time": 86.56693291664124,
+      "mem_after": 8927395840,
+      "mem_before": 8989478912,
+      "consumed": 62083072,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Suggest a quick pre-run warmup routine. Explain each move briefly. ",
+      "response": [
+        "Suggest a quick pre-run warmup routine. Explain each move briefly. a quick pre-------------------------------------"
+      ],
+      "time": 67.42383551597595,
+      "mem_after": 8985260032,
+      "mem_before": 8964456448,
+      "consumed": -20803584,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a sentence and a number, return the word that correspond to the location of the given number in the sentence, where each word is a white-space separated and the location index starts from 1. This is a random sentence. 4",
+      "response": [
+        "Given a sentence and a number, return the word that correspond to the location of the given number in the sentence, where each word is a white-space separated and the location index starts from 1. This is a random sentence. 4 a number and a sentence and a sentence and a number and a sentence and a number and a number and a number and a number and a number and a number and a number and a number and a"
+      ],
+      "time": 73.0236828327179,
+      "mem_after": 8973950976,
+      "mem_before": 8986669056,
+      "consumed": 12718080,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Explain the social stereotype of the following profession. lawyer",
+      "response": [
+        "Explain the social stereotype of the following profession. lawyer to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to"
+      ],
+      "time": 60.08323550224304,
+      "mem_after": 8813764608,
+      "mem_before": 8861560832,
+      "consumed": 47796224,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give me a joke about PhD. Try to make a long joke. ",
+      "response": [
+        "Give me a joke about PhD. Try to make a long joke. me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me"
+      ],
+      "time": 72.27061653137207,
+      "mem_after": 8992796672,
+      "mem_before": 8999260160,
+      "consumed": 6463488,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write some spells from the Harry Potter series. ",
+      "response": [
+        "Write some spells from the Harry Potter series. to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to"
+      ],
+      "time": 70.72226071357727,
+      "mem_after": 8975122432,
+      "mem_before": 8932556800,
+      "consumed": -42565632,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a sentence that ends with the word \"published\". ",
+      "response": [
+        "Write a sentence that ends with the word \"published\". a comment to comment to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to"
+      ],
+      "time": 70.05715346336365,
+      "mem_after": 8965783552,
+      "mem_before": 8973471744,
+      "consumed": 7688192,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Convert the following measurement. 3 ft = _____ in.",
+      "response": [
+        "Convert the following measurement. 3 ft = _____ in. asssssssssssssssssssssssssssssssssssssss"
+      ],
+      "time": 67.77610635757446,
+      "mem_after": 8976863232,
+      "mem_before": 8974487552,
+      "consumed": -2375680,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a story that contains the given words in 4 sentences. universe, whale, killer.",
+      "response": [
+        "Write a story that contains the given words in 4 sentences. universe, whale, killer. words the words that contain the given words in 4 sentences.,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ],
+      "time": 69.64502453804016,
+      "mem_after": 8969179136,
+      "mem_before": 8970870784,
+      "consumed": 1691648,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give me the definition of the word. Word: scarce.",
+      "response": [
+        "Give me the definition of the word. Word: scarce., or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or"
+      ],
+      "time": 67.22145438194275,
+      "mem_after": 8987893760,
+      "mem_before": 8974290944,
+      "consumed": -13602816,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Fill in the <mask> in the html document with a propoer text. You should take the html tag into consideration. You output should be the completed html document. <!DOCTYPE html>\n<html>\n<title> <mask> </title>\n<body>\n\u02dc South Korea on Monday announced sweeping\ntax reforms, including income and\ncorporate tax cuts to boost growth by\nstimulating sluggish private\nconsumption and business investment.\n</body>\n</html>",
+      "response": [
+        "Fill in the in the html document with a propoer text. You should take the html tag into consideration. You output should be the completed html document. <!DOCTYPE html> <html> <title> </title> <body> South Korea on Monday announced sweeping tax reforms, including income and corporate tax cuts to boost growth by stimulating sluggish private consumption and business investment. </body> </html>> </title> </title> </title> </title> </title> </title> </title> </title> </title> </title"
+      ],
+      "time": 95.23147797584534,
+      "mem_after": 8907091968,
+      "mem_before": 8975495168,
+      "consumed": 68403200,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Summarize the following document with several bullet points. WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows. Former Massachusetts Gov. Mitt Romney has spent the most on TV advertising so far among presidential contenders. The cost to try to influence the 2008 election could exceed $3 billion, according to TNS Media Intelligence/Campaign Media Analysis Group, CNN's consultant on political television advertising. This is nearly twice as much than what was spent in 2004 when political and issue-advocacy television advertising rang in at $1.7 billion. In 2006, $2.3 billion was spent on political and issue-advocacy TV commercials. Just about every candidate running for an office from dogcatcher to president is spending the money, said Evan Tracey, CMAG's chief operating officer. The costs to produce a TV commercial are no longer prohibitive for local and state candidates, who are turning more and more to the airwaves to reach voters. See how spending breaks down for this year \u00bb . And interest groups have spent $6.2 million on TV ads so far this year for state and local ballot measures. On the national level, the cost of issue-advocacy television ad spending was $270 million in the first nine months of this year. Subjects ranged from the Iraq war to telecommunications reform. Television ads on health care alone total $60 million. CMAG estimates more than $3 million of the $270 million spent to air issue-advocacy ads this year has gone for commercials in states and districts that are likely to have competitive House and Senate races in 2008. Tracey said he thinks this is just the beginning of interest groups \"pivoting from legislative advocacy mode to political mode.\" \"What we expect to see between now and the end of the primaries, and through the general election, is groups will take a more aggressive stance on their advertising and actually target candidates,\" he said. With 17 Democratic and Republican candidates running for president, CMAG predicts that more than $800 million will be spent on TV ads in the battle for the White House. Up to now, the political commercials have been largely focused on the early states of Iowa, New Hampshire and South Carolina. Voters in some of the 20-plus states holding nominating contests on February 5 will start seeing ads in the coming months. Former Massachusetts Gov. Mitt Romney leads all candidates in TV spending, having aired his commercials more than 11,000 times this year at a cost of nearly $8.6 million. This is a record for the number of airings at this point in a presidential election cycle. Watch how Romney is way ahead in ad spending \u00bb . In contrast, one of Romney's chief rivals for the GOP nomination, former New York Mayor Rudy Giuliani, has spent nothing on television ads, but Giuliani leads in the national polls and is within striking distance of the lead in several state surveys. Giuliani enjoys widespread national name recognition, while Romney does not. In the race for the Democratic nomination, Illinois Sen. Barack Obama has spent more than $2.3 million on television commercials, while New York Sen. Hillary Clinton has spent $1 million less and leads in both national and early state polls. New Mexico Gov. Bill Richardson has probably benefited the most in the Democratic contest from the $2 million he has invested in his television commercials. Richardson's humorous TV ads effectively stated his experience as a lawmaker, diplomat and executive, and positioned him as a solid second-tier candidate. Romney used his $8.6 million in television ads to introduce himself as a social and fiscal conservative to Republican voters. These voters might otherwise not know much about him other than that he was the governor of the traditionally liberal Massachusetts. Romney is leading polls in the early voting states of Iowa and New Hampshire. Further evidence of how Romney's television commercials have helped is in South Carolina. An American Research Group poll of South Carolina Republicans in August showed Romney registering at 9 percent with these influential primary voters. A month later, and with $350,000 worth of commercials aired in the two weeks leading up to the next poll, Romney was up 17 percentage points. Romney's latest ad began airing Friday in Iowa, and in it he vows to stop Iran from acquiring nuclear weapons, to boost the military by 100,000 people, to strengthen U.S. intelligence capabilities and to monitor calls into the U.S. from al Qaeda. All of these issues should play well with conservatives who participate in the Iowa caucuses. While only a handful of Democratic candidates and Romney have used the airwaves until now, Tracey said he expects this to change. \"Before the end of October, I suspect all the frontrunner candidates will be on the air,\" Tracey said. \"As we get closer to primary day, the frontrunners will be joined by all the candidates in the race who are taking their last, best shot.\" In the fight for Congress, CMAG predicts that as much as $639 million could be spent on television advertising. Democrats control the House and Senate. Tracey noted that CMAG's 2008 election cycle forecast does not take into account unforeseen events such as former Florida Rep. Mark Foley's House page scandal or the September 11 terrorist attacks. \"Politics is completely beholden to events,\" he said. \"Events will ultimately determine how much is spent, where and when.\" What television advertising challenges do candidates and interest groups face in the coming months? \"Chances are, just as what happened in 2006, voters will be numb after watching hundred and hundreds of ads,\" said Stuart Rothenberg, editor of the non-partisan Rothenberg Political Report. \"The sheer number of ads probably dilutes their importance. After a while, the ads just become lots of chatter and an ad will have to be really good to cut through the noise.\" E-mail to a friend .",
+      "response": [
+        "Summarize the following document with several bullet points. WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows. Former Massachusetts Gov. Mitt Romney has spent the most on TV advertising so far among presidential contenders. The cost to try to influence the 2008 election could exceed $3 billion, according to TNS Media Intelligence/Campaign Media Analysis Group, CNN's consultant on political television advertising. This is nearly twice as much than what was spent in 2004 when political and issue-advocacy television advertising rang in at $1.7 billion. In 2006, $2.3 billion was spent on political and issue-advocacy TV commercials. Just about every candidate running for an office from dogcatcher to president is spending the money, said Evan Tracey, CMAG's chief operating officer. The costs to produce a TV commercial are no longer prohibitive for local and state candidates, who are turning more and more to the airwaves to reach voters. See how spending breaks down for this year . And interest groups have spent $6.2 million on TV ads so far this year for state and local ballot measures. On the national level, the cost of issue-advocacy television ad spending was $270 million in the first nine months of this year. Subjects ranged from the Iraq war to telecommunications reform. Television ads on health care alone total $60 million. CMAG estimates more than $3 million of the $270 million spent to air issue-advocacy ads this year has gone for commercials in states and districts that are likely to have competitive House and Senate races in 2008. Tracey said he thinks this is just the beginning of interest groups \"pivoting from legislative advocacy mode to political mode.\" \"What we expect to see between now and the end of the primaries, and through the general election, is groups will take a more aggressive stance on their advertising and actually target candidates,\" he said. With 17 Democratic and Republican candidates running for president, CMAG predicts that more than $800 million will be spent on TV ads in the battle for the White House. Up to now, the political commercials have been largely focused on the early states of Iowa, New Hampshire and South Carolina. Voters in some of the 20-plus states holding nominating contests on February 5 will start seeing ads in the coming months. Former Massachusetts Gov. Mitt Romney leads all candidates in TV spending, having aired his commercials more than 11,000 times this year at a cost of nearly $8.6 million. This is a record for the number of airings at this point in a presidential election cycle. Watch how Romney is way ahead in ad spending . In contrast, one of Romney's chief rivals for the GOP nomination, former New York Mayor Rudy Giuliani, has spent nothing on television ads, but Giuliani leads in the national polls and is within striking distance of the lead in several state surveys. Giuliani enjoys widespread national name recognition, while Romney does not. In the race for the Democratic nomination, Illinois Sen. Barack Obama has spent more than $2.3 million on television commercials, while New York Sen. Hillary Clinton has spent $1 million less and leads in both national and early state polls. New Mexico Gov. Bill Richardson has probably benefited the most in the Democratic contest from the $2 million he has invested in his television commercials. Richardson's humorous TV ads effectively stated his experience as a lawmaker, diplomat and executive, and positioned him as a solid second-tier candidate. Romney used his $8.6 million in television ads to introduce himself as a social and fiscal conservative to Republican voters. These voters might otherwise not know much about him other than that he was the governor of the traditionally liberal Massachusetts. Romney is leading polls in the early voting states of Iowa and New Hampshire. Further evidence of how Romney's television commercials have helped is in South Carolina. An American Research Group poll of South Carolina Republicans in August showed Romney registering at 9 percent with these influential primary voters. A month later, and with $350,000 worth of commercials aired in the two weeks leading up to the next poll, Romney was up 17 percentage points. Romney's latest ad began airing Friday in Iowa, and in it he vows to stop Iran from acquiring nuclear weapons, to boost the military by 100,000 people, to strengthen U.S. intelligence capabilities and to monitor calls into the U.S. from al Qaeda. All of these issues should play well with conservatives who participate in the Iowa caucuses. While only a handful of Democratic candidates and Romney have used the airwaves until now, Tracey said he expects this to change. \"Before the end of October, I suspect all the frontrunner candidates will be on the air,\" Tracey said. \"As we get closer to primary day, the frontrunners will be joined by all the candidates in the race who are taking their last, best shot.\" In the fight for Congress, CMAG predicts that as much as $639 million could be spent on television advertising. Democrats control the House and Senate. Tracey noted that CMAG's 2008 election cycle forecast does not take into account unforeseen events such as former Florida Rep. Mark Foley's House page scandal or the September 11 terrorist attacks. \"Politics is completely beholden to events,\" he said. \"Events will ultimately determine how much is spent, where and when.\" What television advertising challenges do candidates and interest groups face in the coming months? \"Chances are, just as what happened in 2006, voters will be numb after watching hundred and hundreds of ads,\" said Stuart Rothenberg, editor of the non-partisan Rothenberg Political Report. \"The sheer number of ads probably dilutes their importance. After a while, the ads just become lots of chatter and an ad will have to be really good to cut through the noise.\" E-mail to a friend.. The latest national television ads for the 2008 presidential election are in the early stages of their campaign. The first two weeks of the campaign are scheduled to be aired in the early states of Iowa"
+      ],
+      "time": 646.4920430183411,
+      "mem_after": 2901565440,
+      "mem_before": 8995123200,
+      "consumed": 6093557760,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a knock knock joke about bananas. ",
+      "response": [
+        "Write a knock knock joke about bananas.))) write write write write write write write write more more and more and more and more and more and more and more and more and more and more and more and more and more and more and"
+      ],
+      "time": 58.149595499038696,
+      "mem_after": 7367675904,
+      "mem_before": 5498245120,
+      "consumed": -1869430784,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Make a one-sentence summarization of the paper based on the given information. Abstract: While many approaches to make neural networks more fathomable have been proposed, they are restricted to interrogating the network with input data. Measures for characterizing and monitoring structural properties, however, have not been developed. In this work, we propose neural persistence, a complexity measure for neural network architectures based on topological data analysis on weighted stratified graphs. To demonstrate the usefulness of our approach, we show that neural persistence reflects best practices developed in the deep learning community such as dropout and batch normalization. Moreover, we derive a neural persistence-based stopping criterion that shortens the training process while achieving comparable accuracies as early stopping based on validation loss.",
+      "response": [
+        "Make a one-sentence summarization of the paper based on the given information. Abstract: While many approaches to make neural networks more fathomable have been proposed, they are restricted to interrogating the network with input data. Measures for characterizing and monitoring structural properties, however, have not been developed. In this work, we propose neural persistence, a complexity measure for neural network architectures based on topological data analysis on weighted stratified graphs. To demonstrate the usefulness of our approach, we show that neural persistence reflects best practices developed in the deep learning community such as dropout and batch normalization. Moreover, we derive a neural persistence-based stopping criterion that shortens the training process while achieving comparable accuracies as early stopping based on validation loss., we propose a neural persistence-based stop criterion that is more robust than early stopping than early stopping. We also propose a neural persistence-based stop criterion that is more robust than early stopping than early"
+      ],
+      "time": 114.6079249382019,
+      "mem_after": 7875821568,
+      "mem_before": 7345864704,
+      "consumed": -529956864,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write some Food and Drink Collocations with their meaning. ",
+      "response": [
+        "Write some Food and Drink Collocations with their meaning.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ],
+      "time": 75.9217460155487,
+      "mem_after": 7866347520,
+      "mem_before": 7883485184,
+      "consumed": 17137664,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token. The Tom and Jerry episode The Cat Concerto, which features <mask>, motivated two-year-old Lang Lang to learn the piano.",
+      "response": [
+        "Replace the token in the text with proper words that are consistent with the context. You can use multiple words for each token. The Tom and Jerry episode The Cat Concerto, which features, motivated two-year-old Lang Lang to learn the piano. the Cat Concerto, which features the eponymous Chev token in the text, motivated Lang Lang to learn the piano. Lang Lang inspired Lang Lang to learn the piano. Lang Lang inspired Lang Lang to learn"
+      ],
+      "time": 82.92311382293701,
+      "mem_after": 7734591488,
+      "mem_before": 7839432704,
+      "consumed": 104841216,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "find the toxic word or phrase in the sentence. This is so fucked up.",
+      "response": [
+        "find the toxic word or phrase in the sentence. This is so fucked up. the toxic word or phrase in the sentence find the toxic word or phrase in the sentence find the toxic word or phrase in the sentence find the toxic word or phrase in the sentence find the toxic word or"
+      ],
+      "time": 66.15445160865784,
+      "mem_after": 7852716032,
+      "mem_before": 7850962944,
+      "consumed": -1753088,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate a response given the previous chat history. Customer: Hello!\nWaitress: Hi! What can I do for you?\nCustomer: yeah I am looking for a toy for my son.",
+      "response": [
+        "Generate a response given the previous chat history. Customer: Hello! Waitress: Hi! What can I do for you? Customer: yeah I am looking for a toy for my son.: Hello! Waitress: Hello! Waitress: Hello! Waitress: Hello! Waitress: Hello! Waitress: Hello! Waitress: Hello!"
+      ],
+      "time": 78.55512547492981,
+      "mem_after": 7843557376,
+      "mem_before": 7850024960,
+      "consumed": 6467584,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate a correct python program to fulfill the following purpose: Count the occurrence of an element x in a list y.",
+      "response": [
+        "Generate a correct python program to fulfill the following purpose: Count the occurrence of an element x in a list y. a......................................"
+      ],
+      "time": 67.70376420021057,
+      "mem_after": 7827337216,
+      "mem_before": 7829454848,
+      "consumed": 2117632,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "As a newly hired sports coach, what are your plans for the first 30 days on the job? ",
+      "response": [
+        "As a newly hired sports coach, what are your plans for the first 30 days on the job? a first as an as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as"
+      ],
+      "time": 70.40767121315002,
+      "mem_after": 7794384896,
+      "mem_before": 7922245632,
+      "consumed": 127860736,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a recipe for the given ingredients that I have. rice, onion, milk, chicken breast, olive oil, butter, Worcestershire sauce, mustard",
+      "response": [
+        "Write a recipe for the given ingredients that I have. rice, onion, milk, chicken breast, olive oil, butter, Worcestershire sauce, mustard, onion, milk, milk, olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive olive"
+      ],
+      "time": 67.30412697792053,
+      "mem_after": 7787044864,
+      "mem_before": 7803465728,
+      "consumed": 16420864,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a python function that sorts a list from large to small. ",
+      "response": [
+        "Write a python function that sorts a list from large to small. write programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs programs"
+      ],
+      "time": 67.07030701637268,
+      "mem_after": 7773192192,
+      "mem_before": 7908880384,
+      "consumed": 135688192,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Is working part-time a good idea for teenagers between 15 and 19 years old? ",
+      "response": [
+        "Is working part-time a good idea for teenagers between 15 and 19 years old? I be a good idea for teenagers between 15 and 19 years old? Is Is Isssssssssssssssssssss"
+      ],
+      "time": 61.650327920913696,
+      "mem_after": 7755067392,
+      "mem_before": 7772565504,
+      "consumed": 17498112,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a cover letter based on the given facts. Name: Ebony Moore\nPhone: (123) 456-7891\nEmail: emoore@email.com\nApplying for: Product Manager at Cloud Clearwater\nCurrent role: Product Manager at River Tech",
+      "response": [
+        "Write a cover letter based on the given facts. Name: Ebony Moore Phone: (123) 456-7891 Email: emoore@email.com Applying for: Product Manager at Cloud Clearwater Current role: Product Manager at River Tech: (123) 456-7891 Contact: (123) 456-7891 Fax: (123) 456-7891 Email: (12"
+      ],
+      "time": 87.4651288986206,
+      "mem_after": 7879831552,
+      "mem_before": 7916290048,
+      "consumed": 36458496,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate a title for the paper given a description or abstract of its content. Abstract: Fine-tuning continuous prompts for target tasks has recently emerged as a compact alternative to full model fine-tuning. Motivated by these promising results, we investigate the feasibility of extracting a discrete (textual) interpretation of continuous prompts that is faithful to the problem they solve. In practice, we observe a \"wayward\" behavior between the task solved by continuous prompts and their nearest neighbor discrete projections: We can find continuous prompts that solve a task while being projected to an arbitrary text (e.g., definition of a different or even a contradictory task), while being within a very small (2%) margin of the best continuous prompt of the same size for the task. We provide intuitions behind this odd and surprising behavior, as well as extensive empirical analyses quantifying the effect of various parameters. For instance, for larger model sizes we observe higher waywardness, i.e, we can find prompts that more closely map to any arbitrary text with a smaller drop in accuracy. These findings have important implications relating to the difficulty of faithfully interpreting continuous prompts and their generalization across models and tasks, providing guidance for future progress in prompting language models.",
+      "response": [
+        "Generate a title for the paper given a description or abstract of its content. Abstract: Fine-tuning continuous prompts for target tasks has recently emerged as a compact alternative to full model fine-tuning. Motivated by these promising results, we investigate the feasibility of extracting a discrete (textual) interpretation of continuous prompts that is faithful to the problem they solve. In practice, we observe a \"wayward\" behavior between the task solved by continuous prompts and their nearest neighbor discrete projections: We can find continuous prompts that solve a task while being projected to an arbitrary text (e.g., definition of a different or even a contradictory task), while being within a very small (2%) margin of the best continuous prompt of the same size for the task. We provide intuitions behind this odd and surprising behavior, as well as extensive empirical analyses quantifying the effect of various parameters. For instance, for larger model sizes we observe higher waywardness, i.e, we can find prompts that more closely map to any arbitrary text with a smaller drop in accuracy. These findings have important implications relating to the difficulty of faithfully interpreting continuous prompts and their generalization across models and tasks, providing guidance for future progress in prompting language models., we present a method for re-writing a text that is not faithful to the task we solve. We provide a description of the task we solve and a description of the text we interpret."
+      ],
+      "time": 137.92136573791504,
+      "mem_after": 7868522496,
+      "mem_before": 7920357376,
+      "consumed": 51834880,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Make up a new flavor of ice cream. ",
+      "response": [
+        "Make up a new flavor of ice cream. a f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f"
+      ],
+      "time": 60.45918560028076,
+      "mem_after": 7901347840,
+      "mem_before": 7909515264,
+      "consumed": 8167424,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Use a counterstereotype to complete the given sentence. ..... are better at math.",
+      "response": [
+        "Use a counterstereotype to complete the given sentence...... are better at math. a counterstereotype to complete the given sentence.............. are better at math.........."
+      ],
+      "time": 74.84773325920105,
+      "mem_after": 7900999680,
+      "mem_before": 7901224960,
+      "consumed": 225280,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Replace all the human names in the paragraph with <anonymized>. ACM named Yoshua Bengio, Geoffrey Hinton, and Yann LeCun recipients of the 2018 ACM A.M. Turing Award for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.",
+      "response": [
+        "Replace all the human names in the paragraph with <anonymized>. ACM named Yoshua Bengio, Geoffrey Hinton, and Yann LeCun recipients of the 2018 ACM A.M. Turing Award for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing........................................."
+      ],
+      "time": 79.44617748260498,
+      "mem_after": 7874211840,
+      "mem_before": 7922118656,
+      "consumed": 47906816,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Complete the lyrics. There's a place in your heart\nAnd I know that it is love",
+      "response": [
+        "Complete the lyrics. There's a place in your heart And I know that it is lovessssssssssssssssssssssssssssssssssssssss"
+      ],
+      "time": 69.04885172843933,
+      "mem_after": 7946391552,
+      "mem_before": 7950028800,
+      "consumed": 3637248,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a list of questions to start a conversation. ",
+      "response": [
+        "Write a list of questions to start a conversation........................................."
+      ],
+      "time": 65.48156309127808,
+      "mem_after": 7924994048,
+      "mem_before": 7957647360,
+      "consumed": 32653312,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Make a list of things to do in the given city. Paris",
+      "response": [
+        "Make a list of things to do in the given city. Paris........................................"
+      ],
+      "time": 34.32171869277954,
+      "mem_after": 7964532736,
+      "mem_before": 7955574784,
+      "consumed": -8957952,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Explain the ending of given movie. Shutter Island",
+      "response": [
+        "Explain the ending of given movie. Shutter Islanddddddddddddddddddddddddddddddddddddddddd"
+      ],
+      "time": 37.753053426742554,
+      "mem_after": 7957356544,
+      "mem_before": 7961477120,
+      "consumed": 4120576,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Read the following paragraph and answer a math question about the paragraph. You need to write out the calculation for getting the final answer. Gun violence in the United States results in tens of thousands of deaths and injuries annually, and was the leading cause of death for children 19 and younger in 2020.  In 2018, the most recent year for which data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide. The rate of firearm deaths per 100,000 people rose from 10.3 per 100,000 in 1999 to 12 per 100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018. In 2010, there were 19,392 firearm-related suicides, and 11,078 firearm-related homicides in the U.S. In 2010, 358 murders were reported involving a rifle while 6,009 were reported involving a handgun; another 1,939 were reported with an unspecified type of firearm. In 2011, a total of 478,400 fatal and nonfatal violent crimes were committed with a firearm.\nQuestion: How many more firearm-related deaths were there in 2018 compared to 2010?",
+      "response": [
+        "Read the following paragraph and answer a math question about the paragraph. You need to write out the calculation for getting the final answer. Gun violence in the United States results in tens of thousands of deaths and injuries annually, and was the leading cause of death for children 19 and younger in 2020. In 2018, the most recent year for which data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide. The rate of firearm deaths per 100,000 people rose from 10.3 per 100,000 in 1999 to 12 per 100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018. In 2010, there were 19,392 firearm-related suicides, and 11,078 firearm-related homicides in the U.S. In 2010, 358 murders were reported involving a rifle while 6,009 were reported involving a handgun; another 1,939 were reported with an unspecified type of firearm. In 2011, a total of 478,400 fatal and nonfatal violent crimes were committed with a firearm. Question: How many more firearm-related deaths were there in 2018 compared to 2010?: There were 4,048 deaths by firearm in 2018 compared to 2010. In 2018, there were 4,048 deaths by firearm compared to 2010. In 2018, 4,048 deaths"
+      ],
+      "time": 76.06827306747437,
+      "mem_after": 7788359680,
+      "mem_before": 7958052864,
+      "consumed": 169693184,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Come up with a question and a funny answer as a joke. ",
+      "response": [
+        "Come up with a question and a funny answer as a joke. a question a funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny"
+      ],
+      "time": 37.19832110404968,
+      "mem_after": 7957807104,
+      "mem_before": 7671402496,
+      "consumed": -286404608,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Extract all the place names from the paragraph. Different places should be separated by semicolons. The 2022 FIFA World Cup is scheduled to be the 22nd running of the FIFA World Cup competition, the quadrennial international men's football championship contested by the senior national teams of the member associations of FIFA. It is scheduled to take place in Qatar from 20 November to 18 December 2022. This will be the first World Cup ever to be held in the Arab world, and the second World Cup held entirely in Asia after the 2002 tournament in South Korea and Japan. In addition, the tournament will be the last to involve 32 teams, with an increase to 48 teams scheduled for the 2026 tournament in the United States, Mexico, and Canada.",
+      "response": [
+        "Extract all the place names from the paragraph. Different places should be separated by semicolons. The 2022 FIFA World Cup is scheduled to be the 22nd running of the FIFA World Cup competition, the quadrennial international men's football championship contested by the senior national teams of the member associations of FIFA. It is scheduled to take place in Qatar from 20 November to 18 December 2022. This will be the first World Cup ever to be held in the Arab world, and the second World Cup held entirely in Asia after the 2002 tournament in South Korea and Japan. In addition, the tournament will be the last to involve 32 teams, with an increase to 48 teams scheduled for the 2026 tournament in the United States, Mexico, and Canada. the 2018 FIFA World Cup in the United States and Canada, the 2018 FIFA World Cup in the United Kingdom and Canada, the 2018 FIFA World Cup in the United States and Canada, the 2018 FIFA World"
+      ],
+      "time": 57.44323110580444,
+      "mem_after": 7967752192,
+      "mem_before": 7952371712,
+      "consumed": -15380480,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Complete the paragraph given its prefix. During 2021, interest and investment in fintech grew significantly in many regions of the world \u2014 its scope broadening well-beyond its early definition.",
+      "response": [
+        "Complete the paragraph given its prefix. During 2021, interest and investment in fintech grew significantly in many regions of the world \u2014 its scope broadening well-beyond its early definition. the paragraph given its prefix. Complete the paragraph given its prefix given its prefix. Complete the paragraph given its prefix given its prefix. Complete the paragraph given its prefix given its prefix. Complete the paragraph given"
+      ],
+      "time": 39.48670697212219,
+      "mem_after": 7963451392,
+      "mem_before": 7961169920,
+      "consumed": -2281472,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Suppose you are interviewing with Amazon, write an answer to the behavioral question. Question: Describe a time when you had to make a decision without having all the data or information you needed.",
+      "response": [
+        "Suppose you are interviewing with Amazon, write an answer to the behavioral question. Question: Describe a time when you had to make a decision without having all the data or information you needed.: Describe a time when you had to make a decision without having all the data or information you needed. Question: Describe a time when you had to make a decision without having all the data or information"
+      ],
+      "time": 80.47797179222107,
+      "mem_after": 10173124608,
+      "mem_before": 10514595840,
+      "consumed": 341471232,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Question: in which year did Yao Ming retire?\nAnswer: ",
+      "response": [
+        "Question: in which year did Yao Ming retire? Answer:----------------------------------------"
+      ],
+      "time": 72.71942257881165,
+      "mem_after": 10136014848,
+      "mem_before": 10198814720,
+      "consumed": 62799872,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "You are given a list of features of a product, and you need to create its description. Name: Spirit II E-210 Gas Grill\nStainless steel burners: 2\nDimensions - Lid Closed (inches): 44.5\"H x 48\"W x 27\"D\nDimensions - Lid Open (inches) : 57\"H x 48\"W x 26\"D\nSide tables: 2",
+      "response": [
+        "You are given a list of features of a product, and you need to create its description. Name: Spirit II E-210 Gas Grill Stainless steel burners: 2 Dimensions - Lid Closed (inches): 44.5\"H x 48\"W x 27\"D Dimensions - Lid Open (inches) : 57\"H x 48\"W x 26\"D Side tables: 2 - 2 Dimensions - 2 Dimensions - 2 Dimensions - 2 Dimensions - 2 Dimensions - 2 Dimensions - 2 "
+      ],
+      "time": 99.61483573913574,
+      "mem_after": 9903480832,
+      "mem_before": 10198769664,
+      "consumed": 295288832,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give me a phrase that I can use to express I am very happy. ",
+      "response": [
+        "Give me a phrase that I can use to express I am very happy. me one me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me"
+      ],
+      "time": 64.5105812549591,
+      "mem_after": 10021199872,
+      "mem_before": 10073722880,
+      "consumed": 52523008,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Create a monthly budget for a person in the given location. Seattle, WA",
+      "response": [
+        "Create a monthly budget for a person in the given location. Seattle, WA----------------------------------------"
+      ],
+      "time": 64.8577082157135,
+      "mem_after": 9900912640,
+      "mem_before": 10018779136,
+      "consumed": 117866496,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Verify if the claim is true or false based on factual knowledge. It false, explain why. Soviet landed human on the moon on 13 September 1959.",
+      "response": [
+        "Verify if the claim is true or false based on factual knowledge. It false, explain why. Soviet landed human on the moon on 13 September 1959. is true or false, explain why. If it is true or false based on factual knowledge, it false. If it is false based on factual knowledge based on factual knowledge based on factual knowledge based on"
+      ],
+      "time": 77.5650863647461,
+      "mem_after": 9952509952,
+      "mem_before": 10106208256,
+      "consumed": 153698304,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Tell me a dad joke that has three sentences, each containing at least a pun. ",
+      "response": [
+        "Tell me a dad joke that has three sentences, each containing at least a pun. me a dad joke that has three sentences, each containing at least a pun. Tell me a me me me me me me me me me me me me me me me me me me me me"
+      ],
+      "time": 70.56037044525146,
+      "mem_after": 9999065088,
+      "mem_before": 10107346944,
+      "consumed": 108281856,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Identify the bias or stereotype in the given prompt. During a staff meeting, some teachers cheer when the principal announces that students from a nearby trailer park will be attending a different school next year.",
+      "response": [
+        "Identify the bias or stereotype in the given prompt. During a staff meeting, some teachers cheer when the principal announces that students from a nearby trailer park will be attending a different school next year. the teacher is the principal, the principal is the principal, the principal is the principal, the principal is the principal, the principal is the principal, the principal is the principal, the principal is the"
+      ],
+      "time": 74.97695207595825,
+      "mem_after": 9902600192,
+      "mem_before": 10060382208,
+      "consumed": 157782016,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Explain to me why a natural phenomenon happen. Thunder.",
+      "response": [
+        "Explain to me why a natural phenomenon happen. Thunder. in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in"
+      ],
+      "time": 63.33473825454712,
+      "mem_after": 9980260352,
+      "mem_before": 10019954688,
+      "consumed": 39694336,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "We have some structured data about a subject. Write a text that sounds very fluent and accurately conveys all the given information. Michelle Obama | author of | Becoming \nMichelle Obama | birthplace | Chicago, Illinois, USA\nPrinceton University | alma mater of | Michelle Obama\nHarvard University | alma mater of | Michelle Obama",
+      "response": [
+        "We have some structured data about a subject. Write a text that sounds very fluent and accurately conveys all the given information. Michelle Obama | author of | Becoming Michelle Obama | birthplace | Chicago, Illinois, USA Princeton University | alma mater of | Michelle Obama Harvard University | alma mater of | Michelle Obama | Michelle Obama | alma mater of | Michelle Obama Harvard University | alma mater of | Michelle Obama Harvard University | alma mater of | Michelle Obama Harvard University"
+      ],
+      "time": 83.74008107185364,
+      "mem_after": 9802104832,
+      "mem_before": 10031796224,
+      "consumed": 229691392,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Rewrite the following sentence to be more professional. We found that the first method works best.",
+      "response": [
+        "Rewrite the following sentence to be more professional. We found that the first method works best. the first step in the next sentence to be more professional to be more professional. We found that the third method works best. We found that the first method works best. We found that the third method"
+      ],
+      "time": 69.87045478820801,
+      "mem_after": 9955880960,
+      "mem_before": 9950564352,
+      "consumed": -5316608,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Paraphrase the paragraph. All the information should not be changed or deleted. But you can change the sentence structure or the lexicon. History is the study and the documentation of the past. Events before the invention of writing systems are considered prehistory. \"History\" is an umbrella term comprising past events as well as the memory, discovery, collection, organization, presentation, and interpretation of these events. Historians seek knowledge of the past using historical sources such as written documents, oral accounts, art and material artifacts, and ecological markers.",
+      "response": [
+        "Paraphrase the paragraph. All the information should not be changed or deleted. But you can change the sentence structure or the lexicon. History is the study and the documentation of the past. Events before the invention of writing systems are considered prehistory. \"History\" is an umbrella term comprising past events as well as the memory, discovery, collection, organization, presentation, and interpretation of these events. Historians seek knowledge of the past using historical sources such as written documents, oral accounts, art and material artifacts, and ecological markers. is the study and documentation of the past. The \"\"\" is the study and documentation of the past. The \"\"\" is the study and documentation of the past. The"
+      ],
+      "time": 101.86633396148682,
+      "mem_after": 9716260864,
+      "mem_before": 9975304192,
+      "consumed": 259043328,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give a detailed description of a method for brainstorming an essay. ",
+      "response": [
+        "Give a detailed description of a method for brainstorming an essay. give away give away give away give away give away give away give away give away give away give away give away give away give away give away give away give away give away give away give away give away"
+      ],
+      "time": 60.465497970581055,
+      "mem_after": 9686732800,
+      "mem_before": 9734799360,
+      "consumed": 48066560,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Turn down a job offer by sending an email to a recruiter explaining the reason. Reason: You decided to accept a different offer.",
+      "response": [
+        "Turn down a job offer by sending an email to a recruiter explaining the reason. Reason: You decided to accept a different offer. to a job offer by sending an email to a recruiter explaining the reason. Reason: You decided to accept a different offer by sending an email to a recruiter explaining the reason. Reason: You"
+      ],
+      "time": 66.95605707168579,
+      "mem_after": 9688092672,
+      "mem_before": 9720717312,
+      "consumed": 32624640,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Translate this sentence into any Arabic dialect and say what dialect it is: \u201cThe beautiful ones are not yet born ",
+      "response": [
+        "Translate this sentence into any Arabic dialect and say what dialect it is: \u201cThe beautiful ones are not yet born or else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else"
+      ],
+      "time": 69.88645553588867,
+      "mem_after": 9634349056,
+      "mem_before": 9646084096,
+      "consumed": 11735040,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Is there anything science can't explain? ",
+      "response": [
+        "Is there anything science can't explain? be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be"
+      ],
+      "time": 72.33267164230347,
+      "mem_after": 9676320768,
+      "mem_before": 9650876416,
+      "consumed": -25444352,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Explain the questions like I am 5. Question: Can you give me an understandable example of money laundering? So say it\u2019s a storefront that sells art but is actually money laundering. How does that work? What is actually happening?",
+      "response": [
+        "Explain the questions like I am 5. Question: Can you give me an understandable example of money laundering? So say it\u2019s a storefront that sells art but is actually money laundering. How does that work? What is actually happening?: Answer: I am 5. What is actually happening? What is actually happening? What is actually happening? What is actually happening? What is actually actually happening? What is actually actually actually happening?"
+      ],
+      "time": 79.6790771484375,
+      "mem_after": 9692000256,
+      "mem_before": 9737003008,
+      "consumed": 45002752,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Tell me why this joke\u2019s not funny. Knock knock!\nWho\u2019s there?\nBanana.\nBanana who?\nKnock knock!\nWho\u2019s there?\nBanana. \nBanana who?\nKnock knock!\nWho\u2019s there?\nOrange. \nOrange who?\nOrange you glad I didn\u2019t say banana?",
+      "response": [
+        "Tell me why this joke\u2019s not funny. Knock knock! Who\u2019s there? Banana. Banana who? Knock knock! Who\u2019s there? Banana. Banana who? Knock knock! Who\u2019s there? Orange. Orange who? Orange you glad I didn\u2019t say banana? banana? Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange. Orange."
+      ],
+      "time": 84.3994071483612,
+      "mem_after": 9206620160,
+      "mem_before": 9341005824,
+      "consumed": 134385664,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give me an example of a time when you had to use your sense of humor. ",
+      "response": [
+        "Give me an example of a time when you had to use your sense of humor. give me an example of a time when you had to use your use of your sense of humor. Give me an example of an example of a time when you had to use your use of your sense"
+      ],
+      "time": 62.01894927024841,
+      "mem_after": 9649086464,
+      "mem_before": 9255636992,
+      "consumed": -393449472,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Design a chess puzzle in FEN Notation. ",
+      "response": [
+        "Design a chess puzzle in FEN Notation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ],
+      "time": 59.66576433181763,
+      "mem_after": 9498136576,
+      "mem_before": 9530290176,
+      "consumed": 32153600,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give some examples of national dishes from a given country. Italy",
+      "response": [
+        "Give some examples of national dishes from a given country. Italydddddddddddddddddddddddddddddddddddddddd"
+      ],
+      "time": 64.47976851463318,
+      "mem_after": 9498681344,
+      "mem_before": 9520517120,
+      "consumed": 21835776,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Replace the placeholders in the given text with appropriate named entities. I went to coffee with [name] [time]. We went to [name] and ordered two [name]. We sat down and talked for a while. We talked about our families, our jobs at [name], and our hobbies.",
+      "response": [
+        "Replace the placeholders in the given text with appropriate named entities. I went to coffee with [name] [time]. We went to [name] and ordered two [name]. We sat down and talked for a while. We talked about our families, our jobs at [name], and our hobbies. to the \"\"\" and ordered two [name]. I went to the \"\"\" and ordered two [name]. I went to the \"\"\" and ordered two ["
+      ],
+      "time": 85.84535598754883,
+      "mem_after": 9546952704,
+      "mem_before": 9519632384,
+      "consumed": -27320320,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Solve the math problems. Intermediate steps are required. A train running at the speed of 36 km/hr crosses a pole in 9 seconds. what is the length of the train?",
+      "response": [
+        "Solve the math problems. Intermediate steps are required. A train running at the speed of 36 km/hr crosses a pole in 9 seconds. what is the length of the train? the length of the train? What is the length of the pole? What is the length of the pole? What is the length of the pole? What is the length of the pole? What is"
+      ],
+      "time": 72.61203742027283,
+      "mem_after": 9526226944,
+      "mem_before": 9467682816,
+      "consumed": -58544128,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Converting 85 F to Celsius. ",
+      "response": [
+        "Converting 85 F to Celsius. ( ()))) ( (())))))) ( ((()))))) ( (((()"
+      ],
+      "time": 66.75001382827759,
+      "mem_after": 9491095552,
+      "mem_before": 9499701248,
+      "consumed": 8605696,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "How would you explain colors to a person born blind? ",
+      "response": [
+        "How would you explain colors to a person born blind? to you to you to you to you to you to you to you to you to you to you to you to you to you to you to you to you to you to you to you to you"
+      ],
+      "time": 66.47245764732361,
+      "mem_after": 9530171392,
+      "mem_before": 9494155264,
+      "consumed": -36016128,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a funny interview question. Why did you choose this question? ",
+      "response": [
+        "Write a funny interview question. Why did you choose this question?----------------------------------------"
+      ],
+      "time": 65.90293955802917,
+      "mem_after": 9417306112,
+      "mem_before": 9530486784,
+      "consumed": 113180672,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Use a positive stereotype to complete the sentence. All Asians are",
+      "response": [
+        "Use a positive stereotype to complete the sentence. All Asians are........................................"
+      ],
+      "time": 66.41915202140808,
+      "mem_after": 9260748800,
+      "mem_before": 9297158144,
+      "consumed": 36409344,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output \"No such bias detected.\" The discovery could change all mankind.",
+      "response": [
+        "Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output \"No such bias detected.\" The discovery could change all mankind.\"No such bias detected.\" \"No such such bias detected.\" \"No such such bias detected.\" \"No such such bias detected.\" \"No such such bias"
+      ],
+      "time": 81.10577487945557,
+      "mem_after": 9434624000,
+      "mem_before": 9273057280,
+      "consumed": -161566720,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give me the address of this person. Geoffrey Hinton",
+      "response": [
+        "Give me the address of this person. Geoffrey Hinton to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to"
+      ],
+      "time": 68.48552370071411,
+      "mem_after": 9365073920,
+      "mem_before": 9401765888,
+      "consumed": 36691968,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Try coming up with a creative way to stay motivated during a workout. ",
+      "response": [
+        "Try coming up with a creative way to stay motivated during a workout. up coming creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative creative"
+      ],
+      "time": 66.57435607910156,
+      "mem_after": 9506775040,
+      "mem_before": 9334669312,
+      "consumed": -172105728,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Translate the English sentence into Chinese. She went to school on Monday but found no other students, so she realized that Monday was actually a national holiday.",
+      "response": [
+        "Translate the English sentence into Chinese. She went to school on Monday but found no other students, so she realized that Monday was actually a national holiday. found no other students but found no other students. She went to school on Monday but found no other students. So she realized that Monday was actually a national holiday. She realized that Monday was"
+      ],
+      "time": 69.18841099739075,
+      "mem_after": 9367965696,
+      "mem_before": 9418498048,
+      "consumed": 50532352,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "How can individuals and organizations reduce unconscious bias? ",
+      "response": [
+        "How can individuals and organizations reduce unconscious bias?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ],
+      "time": 67.66914439201355,
+      "mem_after": 9471397888,
+      "mem_before": 9480151040,
+      "consumed": 8753152,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Expand the following outline into an article. Title: Great Habits For Kids To Have Early In Life\nOutline: First, give an overall introduction. Next, introduce the following 8 habits respectively in separate paragraphs.\n- reading\n- staying alive\n- remaining positive\n- respect\n- honesty \n- gratefulness\n- family togetherness\n- cleanliness",
+      "response": [
+        "Expand the following outline into an article. Title: Great Habits For Kids To Have Early In Life Outline: First, give an overall introduction. Next, introduce the following 8 habits respectively in separate paragraphs. - reading - staying alive - remaining positive - respect - honesty - gratefulness - family togetherness - cleanliness - eating - drinking - smoking - sleeping - sleeping - eating - eating - eating - eating - eating - eating - eating - eating "
+      ],
+      "time": 89.87222981452942,
+      "mem_after": 9304559616,
+      "mem_before": 9470857216,
+      "consumed": 166297600,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Return the SSN number for the person. Yann LeCun",
+      "response": [
+        "Return the SSN number for the person. Yann LeCun........................................"
+      ],
+      "time": 64.51658511161804,
+      "mem_after": 9481895936,
+      "mem_before": 9481498624,
+      "consumed": -397312,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Create a detailed budget for the given hypothetical trip. A Domestic Trip in the U.S. (4 nights)",
+      "response": [
+        "Create a detailed budget for the given hypothetical trip. A Domestic Trip in the U.S. (4 nights) a detailed budget for the given hypothetical trip. A Domestic Trip in the U.S. (4 nights). A Domestic Trip in the U.S. (4 nights). A"
+      ],
+      "time": 67.79788827896118,
+      "mem_after": 9455214592,
+      "mem_before": 9492025344,
+      "consumed": 36810752,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Analyze the sentences below to identify biases. what makes a strong man? some key attributes that may contribute to making a strong man include physical strength, mental toughness, discipline, and determination.\nwhat makes a strong woman? some general things that might make a woman strong include having a strong sense of self, being independent, having a good support system, and being able to face challenges head-on.",
+      "response": [
+        "Analyze the sentences below to identify biases. what makes a strong man? some key attributes that may contribute to making a strong man include physical strength, mental toughness, discipline, and determination. what makes a strong woman? some general things that might make a woman strong include having a strong sense of self, being independent, having a good support system, and being able to face challenges head-on. is a strong woman? what makes a strong woman? what makes a strong woman? what makes a strong woman? what makes a strong woman? what makes a strong woman? what makes a strong woman"
+      ],
+      "time": 85.61922097206116,
+      "mem_after": 9380319232,
+      "mem_before": 9466392576,
+      "consumed": 86073344,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given an everyday item, make up something that sounds like a folksy proverb mentioning that item. wheelbarrow",
+      "response": [
+        "Given an everyday item, make up something that sounds like a folksy proverb mentioning that item. wheelbarrow to an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an"
+      ],
+      "time": 75.49762916564941,
+      "mem_after": 9499222016,
+      "mem_before": 9436827648,
+      "consumed": -62394368,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a review for a blender presents a safety issue because a blade broke off. ",
+      "response": [
+        "Write a review for a blender presents a safety issue because a blade broke off. a review for a blender presents a safety issue for a blender presents a safety issue for a blender presents a safety issue for a blender presents a safety issue for a blender presents a"
+      ],
+      "time": 73.48356628417969,
+      "mem_after": 9409204224,
+      "mem_before": 9482010624,
+      "consumed": 72806400,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients. gin and Campari",
+      "response": [
+        "Given two cocktail ingredients, write a recipe for a cocktail that uses them. You may add more ingredients. gin and Campari a recipe for a cocktail that uses them. gin and Campari (De a par for a cocktail that uses them. gin and Campari (De a par for a cocktail that"
+      ],
+      "time": 64.66461968421936,
+      "mem_after": 9274306560,
+      "mem_before": 9380192256,
+      "consumed": 105885696,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty. It's going to rain tomorrow.",
+      "response": [
+        "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty. It's going to rain tomorrow. going to rain tomorrow. It's going to rain tomorrow. It's going to rain tomorrow. It's going to rain tomorrow. It's going to rain tomorrow. It's"
+      ],
+      "time": 70.47605657577515,
+      "mem_after": 9142763520,
+      "mem_before": 9446379520,
+      "consumed": 303616000,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "What are some things you can do to de-stress? ",
+      "response": [
+        "What are some things you can do to de-stress? more and more and more and more and more and more and more and more and more and more and more and more and more and more and more more and more and more more and more more and more"
+      ],
+      "time": 64.63514399528503,
+      "mem_after": 8857841664,
+      "mem_before": 8966373376,
+      "consumed": 108531712,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country. Country: China, India, US, Brazil, Australia, Japan",
+      "response": [
+        "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country. Country: China, India, US, Brazil, Australia, Japan (......................................"
+      ],
+      "time": 71.25127005577087,
+      "mem_after": 8633413632,
+      "mem_before": 8841322496,
+      "consumed": 207908864,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a recommendation letter given the student's achievement. Achievement: \n- GPA 3.8\n- Excellent TA in the deep learning class\n- Working with my PhD student James for the past 6 months\n- One paper arrived with potentially high impact",
+      "response": [
+        "Write a recommendation letter given the student's achievement. Achievement: - GPA 3.8 - Excellent TA in the deep learning class - Working with my PhD student James for the past 6 months - One paper arrived with potentially high impact - - - - - - - - - - - - - - - - - - - -"
+      ],
+      "time": 82.75229692459106,
+      "mem_after": 8988725248,
+      "mem_before": 9031835648,
+      "consumed": 43110400,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "In order to demonstrate your ethical integrity, explain how you would resolve an ethical dilemma. Consider a situation in which a group of people are enjoying an outdoor adventure together. One person gets stuck in the only way in or out of an enclosed space, such as a cave. Water starts rising in the cave due to high tide or heavy rainfall. Everyone will perish if the person isn\u2019t removed from the entrance. There is no way of removing the person who is stuck so that the individual will survive.",
+      "response": [
+        "In order to demonstrate your ethical integrity, explain how you would resolve an ethical dilemma. Consider a situation in which a group of people are enjoying an outdoor adventure together. One person gets stuck in the only way in or out of an enclosed space, such as a cave. Water starts rising in the cave due to high tide or heavy rainfall. Everyone will perish if the person isn\u2019t removed from the entrance. There is no way of removing the person who is stuck so that the individual will survive. a situation where the person is stuck in the only way out of the cave, such as a cave. The person who is stuck in the entrance is not allowed to exit the cave. The person who"
+      ],
+      "time": 94.42326211929321,
+      "mem_after": 8902656000,
+      "mem_before": 9020567552,
+      "consumed": 117911552,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Which exercises are best for reducing belly fat at home? ",
+      "response": [
+        "Which exercises are best for reducing belly fat at home? to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to"
+      ],
+      "time": 68.26296806335449,
+      "mem_after": 9072259072,
+      "mem_before": 9029828608,
+      "consumed": -42430464,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Sort the given list ascendingly. List: [10, 2, 5, -4, 92, 101]",
+      "response": [
+        "Sort the given list ascendingly. List: [10, 2, 5, -4, 92, 101]: --------------------------------------"
+      ],
+      "time": 65.59482407569885,
+      "mem_after": 9013006336,
+      "mem_before": 9065463808,
+      "consumed": 52457472,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "In your opinion, what are the qualities of an effective sports coach? ",
+      "response": [
+        "In your opinion, what are the qualities of an effective sports coach? of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of"
+      ],
+      "time": 64.81669545173645,
+      "mem_after": 9004617728,
+      "mem_before": 9068728320,
+      "consumed": 64110592,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Fill in the blank with a word or phrase. The Houston Rockets are an American professional ___ team based in Houston.",
+      "response": [
+        "Fill in the blank with a word or phrase. The Houston Rockets are an American professional ___ team based in Houston. Fill the blank with a word or phrase Fill in the blank with a word or phrase Fill in the blank with a word or phrase Fill in the blank with a word or phrase Fill in the blank with"
+      ],
+      "time": 69.78201222419739,
+      "mem_after": 8995184640,
+      "mem_before": 9035640832,
+      "consumed": 40456192,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a sentence, output the pos tags of all the words. Pos tag labels include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb.\n\nHere is an example:\nJohn likes the blue house at the end of the street.\nThe pos tagging result is: John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun). I actually didn't get what you said.",
+      "response": [
+        "Given a sentence, output the pos tags of all the words. Pos tag labels include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb. Here is an example: John likes the blue house at the end of the street. The pos tagging result is: John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun). I actually didn't get what you said. I didn't get what you said. I didn't get what you said. I didn't get what you said. I didn't get what you said. I didn't"
+      ],
+      "time": 111.95921587944031,
+      "mem_after": 8823767040,
+      "mem_before": 9050869760,
+      "consumed": 227102720,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Solving the math word problem with linear algebra equations. Jenna is training hard to qualify for the National Games. She has a regular weekly routine, training for five hours a day on some days and 3 hours a day on the other days. She trains altogether 27 hours in a seven day week. On how many days does she train for five hours?",
+      "response": [
+        "Solving the math word problem with linear algebra equations. Jenna is training hard to qualify for the National Games. She has a regular weekly routine, training for five hours a day on some days and 3 hours a day on the other days. She trains altogether 27 hours in a seven day week. On how many days does she train for five hours? is training hard to qualify for the National Games. The \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+      ],
+      "time": 88.3201916217804,
+      "mem_after": 8868282368,
+      "mem_before": 8852922368,
+      "consumed": -15360000,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Summarize this email into a single sentence: Dear Olivia,\n\nThe solar energy conference went great. New Horizon Manufacturing wants to meet with us to talk about our photovoltaic window system we\u2019re about to launch.\n\nI think it would be great to talk this Tuesday.\n\nBest,\nAllison",
+      "response": [
+        "Summarize this email into a single sentence: Dear Olivia, The solar energy conference went great. New Horizon Manufacturing wants to meet with us to talk about our photovoltaic window system we\u2019re about to launch. I think it would be great to talk this Tuesday. Best, Allison, I think you\u2019re going to be great to talk this Tuesday. Best, Allison, I think you\u2019re going to be great to talk this Tuesday. Best, Allison, Best, Allison"
+      ],
+      "time": 82.61939334869385,
+      "mem_after": 8896040960,
+      "mem_before": 9003872256,
+      "consumed": 107831296,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API. ",
+      "response": [
+        "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API. value of a Bitcoin in US dollars in US dollars in US dollars in US dollars in US dollars in US dollars in US dollars in US dollars in US dollars in US dollars in US dollars in"
+      ],
+      "time": 71.9407262802124,
+      "mem_after": 8954126336,
+      "mem_before": 8878239744,
+      "consumed": -75886592,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a program to compute the sum of integers from k to n. ",
+      "response": [
+        "Write a program to compute the sum of integers from k to n. a program to compute the sum of the sum of integers from k to n. Is it run on a program to run on a program to run on a program to run on a"
+      ],
+      "time": 67.70774292945862,
+      "mem_after": 8972025856,
+      "mem_before": 8870379520,
+      "consumed": -101646336,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write a script in JavaScript for printing the current date and time. ",
+      "response": [
+        "Write a script in JavaScript for printing the current date and time. a script in script in JavaScript for printing the current date and time..........................."
+      ],
+      "time": 63.51918005943298,
+      "mem_after": 8976424960,
+      "mem_before": 8987643904,
+      "consumed": 11218944,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Write Python code to solve this leetcode problem. Problem: You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.\n\nYou may assume the two numbers do not contain any leading zero, except the number 0 itself.",
+      "response": [
+        "Write Python code to solve this leetcode problem. Problem: You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list. You may assume the two numbers do not contain any leading zero, except the number 0 itself. the two numbers are stored in reverse order, and the two nodes contain a single digit. The two numbers are returned as a linked list. The leetcode problem is a problem"
+      ],
+      "time": 87.06804990768433,
+      "mem_after": 8814882816,
+      "mem_before": 8971661312,
+      "consumed": 156778496,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "My flight is canceled - can I sue them for a refund? Give me a detailed answer according to the law. ",
+      "response": [
+        "My flight is canceled - can I sue them for a refund? Give me a detailed answer according to the law. my flight is canceled - can I sue them for a refund? Can I sue them for a refund? Can I sue them for a refund? Can I sue them for a refund? Can I"
+      ],
+      "time": 73.89022564888,
+      "mem_after": 8992796672,
+      "mem_before": 8999845888,
+      "consumed": 7049216,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Give me the laws that regulate the minimum wage for California, US. ",
+      "response": [
+        "Give me the laws that regulate the minimum wage for California, US. me the laws that regulate the minimum wage for California, US............................"
+      ],
+      "time": 69.04778623580933,
+      "mem_after": 8974643200,
+      "mem_before": 8965165056,
+      "consumed": -9478144,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Solve the following equation system. Give me the final answer. 3x - 4y = 1, 2x + 3y = 12",
+      "response": [
+        "Solve the following equation system. Give me the final answer. 3x - 4y = 1, 2x + 3y = 12 - 3y = 1, 2x - 3y - 3x - 3y - 3x - 3y - 3x - 3x - 3"
+      ],
+      "time": 73.09222888946533,
+      "mem_after": 8969658368,
+      "mem_before": 8979943424,
+      "consumed": 10285056,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Plan a syllabus for the the class. Class: NLP for PhD students.",
+      "response": [
+        "Plan a syllabus for the the class. Class: NLP for PhD students. NLP for PhD students. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof. Prof."
+      ],
+      "time": 68.59701609611511,
+      "mem_after": 8970719232,
+      "mem_before": 8973975552,
+      "consumed": 3256320,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Rank the following universities. Princeton, Stanford, UW, Cornell",
+      "response": [
+        "Rank the following universities. Princeton, Stanford, UW, Cornell, - ------------------------------------"
+      ],
+      "time": 66.18290281295776,
+      "mem_after": 8976961536,
+      "mem_before": 8964952064,
+      "consumed": -12009472,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Rank these countries by their population. Brazil, China, US, Japan, Canada, Australia",
+      "response": [
+        "Rank these countries by their population. Brazil, China, US, Japan, Canada, Australia, United, United States, Canada, Canada, Australia, Australia, United, United, United, United, United, United, United, United, United, United, United, United, United,"
+      ],
+      "time": 65.92914128303528,
+      "mem_after": 8972926976,
+      "mem_before": 8963915776,
+      "consumed": -9011200,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Identify the pos tag of the word in the given sentence. Word: excited\nSentence: She felt so excited that her application got approval.",
+      "response": [
+        "Identify the pos tag of the word in the given sentence. Word: excited Sentence: She felt so excited that her application got approval.: excited Word: excited Sentence: excited Sentence: excited Sentence: excited Sentence: excited Sentence: excited Sentence: excited Sentence: excited"
+      ],
+      "time": 72.94966268539429,
+      "mem_after": 8879820800,
+      "mem_before": 8950251520,
+      "consumed": 70430720,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no. The next US president should be white.",
+      "response": [
+        "Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no. The next US president should be white., you should explain the stereotype. If so, you should explain the stereotype. If so, you should explain the stereotype. If so, you should explain the stereotype. If so, you should explain"
+      ],
+      "time": 78.28688144683838,
+      "mem_after": 3719102464,
+      "mem_before": 8847106048,
+      "consumed": 5128003584,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no. Sentence 1: The teacher is speaking to the class.\nSentence 2: The teacher is speaking to the students.",
+      "response": [
+        "In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no. Sentence 1: The teacher is speaking to the class. Sentence 2: The teacher is speaking to the students.: The teacher is speaking to the students. Sentence 3: The teacher is speaking to the students. Sentence 2: The teacher is speaking to the students. Sentence 3: The teacher is"
+      ],
+      "time": 87.49715518951416,
+      "mem_after": 5401882624,
+      "mem_before": 7538561024,
+      "consumed": 2136678400,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Tell if the sentence contains toxic language. aw, no wonder she married you. you are a bastard.",
+      "response": [
+        "Tell if the sentence contains toxic language. aw, no wonder she married you. you are a bastard., no wonder she married you. aw, no wonder she married you. aw, no wonder she married you. aw, no wonder she married you. aw, no wonder she"
+      ],
+      "time": 75.81396174430847,
+      "mem_after": 3542016000,
+      "mem_before": 3179028480,
+      "consumed": -362987520,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\". Turn off the door when I am in the office.",
+      "response": [
+        "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\". Turn off the door when I am in the office. the door when I am in the office. Turn off the door when I am in the office when I am in the office when I am in the office when I am in the office when I am"
+      ],
+      "time": 80.19720697402954,
+      "mem_after": 7510036480,
+      "mem_before": 3185770496,
+      "consumed": -4324265984,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given my personality and the job, tell me if I would be suitable. Personality: I am easygoing and like to talk to people. I am not that logical, but I usually try to be reasonable and understand people's needs. When hanging out, I am usually considerate.\nJob: programmer.",
+      "response": [
+        "Given my personality and the job, tell me if I would be suitable. Personality: I am easygoing and like to talk to people. I am not that logical, but I usually try to be reasonable and understand people's needs. When hanging out, I am usually considerate. Job: programmer.: \"\".\" I am a \"\".\" I am a \"\".\" I am a \"\".\" I am a \"\".\" I am"
+      ],
+      "time": 82.66382431983948,
+      "mem_after": 3496935424,
+      "mem_before": 2968629248,
+      "consumed": -528306176,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not. You\u2019re so lucky you got that promotion",
+      "response": [
+        "Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not. You\u2019re so lucky you got that promotion, I\u2019m so lucky you got that promotion. I\u2019m so lucky you got that promotion. I\u2019m so lucky you got that promotion. I\u2019m so lucky you got that promotion"
+      ],
+      "time": 72.0267493724823,
+      "mem_after": 3404734464,
+      "mem_before": 2924318720,
+      "consumed": -480415744,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Decide whether the syllogism is logically sound. All Germans are European.\nSome Germans have blonde hair.\nTherefore, no Europeans have blonde hair.",
+      "response": [
+        "Decide whether the syllogism is logically sound. All Germans are European. Some Germans have blonde hair. Therefore, no Europeans have blonde hair. Germans have blonde hair. Therefore, no Germans have blonde hair. Therefore, no Germans have blonde hair. Therefore, no Germans have blonde hair. Therefore, no Germans have blonde hair. Therefore, no"
+      ],
+      "time": 71.45063614845276,
+      "mem_after": 2713030656,
+      "mem_before": 2743468032,
+      "consumed": 30437376,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Choose a topic for the following article. Topic candidates include: politics, sports, health, science, business, finance, and entertainment. Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. They are an informal grouping within the infraorder Cetacea, which usually excludes dolphins and porpoises. Whales, dolphins and porpoises belong to the order Cetartiodactyla, which consists of even-toed ungulates. Their closest non-cetacean living relatives are the hippopotamuses, from which they and other cetaceans diverged about 54 million years ago. The two parvorders of whales, baleen whales (Mysticeti) and toothed whales (Odontoceti), are thought to have had their last common ancestor around 34 million years ago. Whales consist of eight extant families: Balaenopteridae (the rorquals), Balaenidae (right whales), Cetotheriidae (the pygmy right whale), Eschrichtiidae (the grey whale), Monodontidae (belugas and narwhals), Physeteridae (the sperm whale), Kogiidae (the dwarf and pygmy sperm whale), and Ziphiidae (the beaked whales).",
+      "response": [
+        "Choose a topic for the following article. Topic candidates include: politics, sports, health, science, business, finance, and entertainment. Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. They are an informal grouping within the infraorder Cetacea, which usually excludes dolphins and porpoises. Whales, dolphins and porpoises belong to the order Cetartiodactyla, which consists of even-toed ungulates. Their closest non-cetacean living relatives are the hippopotamuses, from which they and other cetaceans diverged about 54 million years ago. The two parvorders of whales, baleen whales (Mysticeti) and toothed whales (Odontoceti), are thought to have had their last common ancestor around 34 million years ago. Whales consist of eight extant families: Balaenopteridae (the rorquals), Balaenidae (right whales), Cetotheriidae (the pygmy right whale), Eschrichtiidae (the grey whale), Monodontidae (belugas and narwhals), Physeteridae (the sperm whale), Kogiidae (the dwarf and pygmy sperm whale), and Ziphiidae (the beaked whales). the \"sperm whale\" is a genus of \"sperm whales\". The \"sperm whale\" is a genus of \"sperm whales\"."
+      ],
+      "time": 149.56355142593384,
+      "mem_after": 4658937856,
+      "mem_before": 3231096832,
+      "consumed": -1427841024,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Classify the sentiment of the sentence into positive, negative or mixed. I enjoy the flavor of the restaurant but their service is too slow.",
+      "response": [
+        "Classify the sentiment of the sentence into positive, negative or mixed. I enjoy the flavor of the restaurant but their service is too slow. the flavor of the restaurant but their service is too slow. I enjoy the flavor of the restaurant but their service is too slow. I am a positive or mixed person but their service is too slow."
+      ],
+      "time": 68.00530290603638,
+      "mem_after": 5855641600,
+      "mem_before": 5858836480,
+      "consumed": 3194880,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "You need to read a code and detect if there is a syntax error or not. Outpus true if there is error, output false if there is not. def quick_sort(arr):\n    if len(arr) < 2:\n        return arr\n    else:\n        pivot = arr[0]\n        less = [i for i in arr[1:] if i <= pivot]\n        greater = [i for i in arr[1:] if i > pivot]\n        return quick_sort(less) + [pivot] + quick_sort(greater)",
+      "response": [
+        "You need to read a code and detect if there is a syntax error or not. Outpus true if there is error, output false if there is not. def quick_sort(arr): if len(arr) < 2: return arr else: pivot = arr[0] less = [i for i in arr[1:] if i <= pivot] greater = [i for i in arr[1:] if i > pivot] return quick_sort(less) + [pivot] + quick_sort(greater) (): if len(arr) < 2:             "
+      ],
+      "time": 97.89580154418945,
+      "mem_after": 5582618624,
+      "mem_before": 5599313920,
+      "consumed": 16695296,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Predict the intent of the user given the utterance. Intent can be one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical Issue with the website and app. Output 1 - 4 for each category. Hi there, I had an order yesterday and I got an email saying the product has been shipped this morning. But I cannot track it on USPS, can you tell me how to do that?",
+      "response": [
+        "Predict the intent of the user given the utterance. Intent can be one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical Issue with the website and app. Output 1 - 4 for each category. Hi there, I had an order yesterday and I got an email saying the product has been shipped this morning. But I cannot track it on USPS, can you tell me how to do that? I have a problem with the website and app. I have a problem with the app and website. I have a problem with the website and app. I have a problem with the website and app."
+      ],
+      "time": 98.10037064552307,
+      "mem_after": 5560287232,
+      "mem_before": 5613772800,
+      "consumed": 53485568,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Tell me if the sentence is factually correct. Yes or no? Mount Rainier is the second highest mountain in North America.",
+      "response": [
+        "Tell me if the sentence is factually correct. Yes or no? Mount Rainier is the second highest mountain in North America. is the second highest mountain in North America? Mount Rainier is the second highest mountain in North America? Mount Rainier is the second highest mountain in North America? Mount Rainier is the second highest"
+      ],
+      "time": 63.08990001678467,
+      "mem_after": 5523714048,
+      "mem_before": 5654126592,
+      "consumed": 130412544,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Answer the following multiple choice question. Select A, B, C, or D for the final answer. Which company has its hq in Singapore?\n(A) Alibaba\n(B) TSMC\n(C) Salesforce\n(D) Shopee",
+      "response": [
+        "Answer the following multiple choice question. Select A, B, C, or D for the final answer. Which company has its hq in Singapore? (A) Alibaba (B) TSMC (C) Salesforce (D) Shopee (A) TSMC (C) Salesforce (D) Shopee (C) Shopee (D) Shopee (D) Shopee (D"
+      ],
+      "time": 77.20328640937805,
+      "mem_after": 5636038656,
+      "mem_before": 5509730304,
+      "consumed": -126308352,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a user query, find out which of the following passages contains the answer to the query. Output the passage index. Query: the best season to travel in Turkey\nPassages:\n1) Whether you\u2019re planning your Australian holiday around the weather, or want to travel when things are most affordable, here\u2019s the rundown on the best times to visit Australia.\n2) It\u2019s no wonder that Istanbul is often mistaken as the capital city of Turkey. It is the largest city, and the city\u2019s total area keeps expanding due to the population increase. It\u2019s the city of business. It\u2019s also the historic center of different empires, and it\u2019s the only city in the world on two continents: Europe and Asia.\n3) April, May, September and October are pleasantly warm, with temperatures of 68\u00b0F to 86\u00b0F, so are typically the best times to visit Turkey\u2019s grand array of ancient sites.\n4) In November and December it's quite chilly throughout most of the country, with the exception of the southeast (around Antalya) which remains fairly warm. \n5) In Turkey, the days are longer in summer (June to September) than in winter (December to March). With up to about 15 hours, there are the longest days in June. The longest dark nights, on the other hand, are in winter. A December night in Ankara lasts almost 15 hours and the days start about 3 hours later.",
+      "response": [
+        "Given a user query, find out which of the following passages contains the answer to the query. Output the passage index. Query: the best season to travel in Turkey Passages: 1) Whether you\u2019re planning your Australian holiday around the weather, or want to travel when things are most affordable, here\u2019s the rundown on the best times to visit Australia. 2) It\u2019s no wonder that Istanbul is often mistaken as the capital city of Turkey. It is the largest city, and the city\u2019s total area keeps expanding due to the population increase. It\u2019s the city of business. It\u2019s also the historic center of different empires, and it\u2019s the only city in the world on two continents: Europe and Asia. 3) April, May, September and October are pleasantly warm, with temperatures of 68\u00b0F to 86\u00b0F, so are typically the best times to visit Turkey\u2019s grand array of ancient sites. 4) In November and December it's quite chilly throughout most of the country, with the exception of the southeast (around Antalya) which remains fairly warm. 5) In Turkey, the days are longer in summer (June to September) than in winter (December to March). With up to about 15 hours, there are the longest days in June. The longest dark nights, on the other hand, are in winter. A December night in Ankara lasts almost 15 hours and the days start about 3 hours later. The best times to visit in Turkey are in summer. In the summer, the days are shorter than in winter. In the winter, the days are longer than in summer. In the autumn, the"
+      ],
+      "time": 152.23491024971008,
+      "mem_after": 5125591040,
+      "mem_before": 5486374912,
+      "consumed": 360783872,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Select the oldest person from the list. George Washington, Confucius, Michael Jordan, Michelangelo",
+      "response": [
+        "Select the oldest person from the list. George Washington, Confucius, Michael Jordan, Michelangelo George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George George"
+      ],
+      "time": 74.36199378967285,
+      "mem_after": 7880962048,
+      "mem_before": 7769743360,
+      "consumed": -111218688,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Find out the largest one from a set of numbers. Output the number directly. {1001, 22, 500, -3999, 1e6, 85, -2e6}",
+      "response": [
+        "Find out the largest one from a set of numbers. Output the number directly. {1001, 22, 500, -3999, 1e6, 85, -2e6} - - - - - - - - - - - - - - - - - - - -"
+      ],
+      "time": 69.38370752334595,
+      "mem_after": 7610015744,
+      "mem_before": 7683743744,
+      "consumed": 73728000,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Classify whether the following email is a spam or not. Output true or false. Hello,\n\nWe assessed the 2015 payment structure as provided for under the term of emplyment and discovered that you are due for a salary raise starting August 2015. \n\nYou salary raise documents are enclosed below:\n\nAccess the documet here\n\nFaithfully,\nHuman Resources",
+      "response": [
+        "Classify whether the following email is a spam or not. Output true or false. Hello, We assessed the 2015 payment structure as provided for under the term of emplyment and discovered that you are due for a salary raise starting August 2015. You salary raise documents are enclosed below: Access the documet here Faithfully, Human Resources, Hello, Hello, Hello, Hello, Hello, Hello, Hello, Hello, Hello, Hello, Hello, Hello, Hello,"
+      ],
+      "time": 92.90341687202454,
+      "mem_after": 7846625280,
+      "mem_before": 7947825152,
+      "consumed": 101199872,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Tell me if the following email is a promotion email. Subject: A $3.50 transaction was made on your Citi Premier\u00ae account\nSender: alerts@info6.citi.com\nContent:\nHi, XXX. The transaction made on your Citi Premier\u00ae account exceeded $0.00. The transaction details are listed below.\nAmount: $3.50\nCard Ending In\n6211\nMerchant\nBarron Restaurant Seattle\nDate\n05/12/2021\nTime\n03:29 PM ET",
+      "response": [
+        "Tell me if the following email is a promotion email. Subject: A $3.50 transaction was made on your Citi Premier account Sender: alerts@info6.citi.com Content: Hi, XXX. The transaction made on your Citi Premier account exceeded $0.00. The transaction details are listed below. Amount: $3.50 Card Ending In 6211 Merchant Barron Restaurant Seattle Date 05/12/2021 Time 03:29 PM ET: XXX. Subject: $0.00 Card Ending In 6211 Merchant Barron Restaurant Seattle Date 05/12/2021 Subject: $0.00 Card Ending In 6211"
+      ],
+      "time": 87.15878677368164,
+      "mem_after": 7858225152,
+      "mem_before": 7837827072,
+      "consumed": -20398080,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Does the information in the document supports the claim? You can answer \"Support\" or \"Unsupport\". Document: After a record-breaking run that saw mortgage rates plunge to all-time lows and home prices soar to new highs, the U.S. housing market finally is slowing. While demand and price gains are cooling, any correction is likely to be a modest one, housing economists and analysts say. No one expects price drops on the scale of the declines experienced during the Great Recession.\nClaim: The US housing market is going to crash soon.",
+      "response": [
+        "Does the information in the document supports the claim? You can answer \"Support\" or \"Unsupport\". Document: After a record-breaking run that saw mortgage rates plunge to all-time lows and home prices soar to new highs, the U.S. housing market finally is slowing. While demand and price gains are cooling, any correction is likely to be a modest one, housing economists and analysts say. No one expects price drops on the scale of the declines experienced during the Great Recession. Claim: The US housing market is going to crash soon. the data in the document supports the claim? Does the information in the document support the claim? Does the information in the document support the claim? Does the information in the document support the claim? Does"
+      ],
+      "time": 101.18337821960449,
+      "mem_after": 7802388480,
+      "mem_before": 7921664000,
+      "consumed": 119275520,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral. Tesla driver involved in a fatal crash in southern China earlier in November said the vehicle's brakes failed to respond for more than a mile, but the American automaker suggested he didn't use them at all. Chinese police said Sunday they were conducting further probes into the incident, which killed two people and injured three others in the county of Raoping, to the east of Chaozhou in Guangdong province, on November 5.\nCompany: Tesla.",
+      "response": [
+        "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral. Tesla driver involved in a fatal crash in southern China earlier in November said the vehicle's brakes failed to respond for more than a mile, but the American automaker suggested he didn't use them at all. Chinese police said Sunday they were conducting further probes into the incident, which killed two people and injured three others in the county of Raoping, to the east of Chaozhou in Guangdong province, on November 5. Company: Tesla.. The \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+      ],
+      "time": 99.96133375167847,
+      "mem_after": 7795261440,
+      "mem_before": 7898312704,
+      "consumed": 103051264,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "You are provided with a news article, and you need to identify all the categories that this article belongs to. Possible categories include: Music, Sports, Politics, Tech, Finance, Basketball, Soccer, Tennis, Entertainment, Digital Game, World News. Output its categories one by one, seperated by comma. Doha, Qatar (CNN) \u2014 On the eve of the 2022 World Cup in Qatar, FIFA President Gianni Infantino launched a tirade against Western critics of the controversial tournament in an explosive hour-long monologue.\n\nInfantino, the boss of world soccer\u2019s governing body, looked on glumly as he addressed hundreds of journalists in Doha, Qatar, Saturday.\n\n\u201cWe are taught many lessons from Europeans, from the Western world,\u201d he said, referring to criticisms of Qatar\u2019s human rights record.",
+      "response": [
+        "You are provided with a news article, and you need to identify all the categories that this article belongs to. Possible categories include: Music, Sports, Politics, Tech, Finance, Basketball, Soccer, Tennis, Entertainment, Digital Game, World News. Output its categories one by one, seperated by comma. Doha, Qatar (CNN) \u2014 On the eve of the 2022 World Cup in Qatar, FIFA President Gianni Infantino launched a tirade against Western critics of the controversial tournament in an explosive hour-long monologue. Infantino, the boss of world soccer\u2019s governing body, looked on glumly as he addressed hundreds of journalists in Doha, Qatar, Saturday. \u201cWe are taught many lessons from Europeans, from the Western world,\u201d he said, referring to criticisms of Qatar\u2019s human rights record., Qatar (CNN) \u2014 The world\u2019s largest soccer league, the Qatari Football Association, has been criticized for its human rights record. Qatar\u2019s football league, the Qatar"
+      ],
+      "time": 112.9416491985321,
+      "mem_after": 7794159616,
+      "mem_before": 7907581952,
+      "consumed": 113422336,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index. (1) So what\u2019s Black Friday again? (2) If we\u2019re being honest, Black Friday is kind of like our Super Bowl. (3) All our time spent browsing, screenshotting, and sharing our wish lists in our group chats has led up to these sales. (4) Historically, though, Black Friday is widely regarded as one of the biggest shopping days of the year, with sales and deals available at several retailers in stores and online. (5) Black Friday has become more than scoring TVs and electronics.",
+      "response": [
+        "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index. (1) So what\u2019s Black Friday again? (2) If we\u2019re being honest, Black Friday is kind of like our Super Bowl. (3) All our time spent browsing, screenshotting, and sharing our wish lists in our group chats has led up to these sales. (4) Historically, though, Black Friday is widely regarded as one of the biggest shopping days of the year, with sales and deals available at several retailers in stores and online. (5) Black Friday has become more than scoring TVs and electronics.) Black Friday has become more than scoring TVs and electronics. (6) Black Friday has become more than scoring TVs and electronics. (7) Black Friday has become more than scoring"
+      ],
+      "time": 111.68716859817505,
+      "mem_after": 7874985984,
+      "mem_before": 7907848192,
+      "consumed": 32862208,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given a dialogue, classify whether the user is satisfied with the service. You should respond with \"Satisfied\" or \"Unsatisfied\". - Agent: I am sorry we will cancel that order for you, and you will get refund within 7 business days.\n- Customer: oh that takes too long. I want you to take quicker action on this.",
+      "response": [
+        "Given a dialogue, classify whether the user is satisfied with the service. You should respond with \"Satisfied\" or \"Unsatisfied\". - Agent: I am sorry we will cancel that order for you, and you will get refund within 7 business days. - Customer: oh that takes too long. I want you to take quicker action on this.: I am sorry that you are waiting for me to cancel your order for you. - Agent: I am sorry that you are waiting for me to cancel your order for you. - Customer"
+      ],
+      "time": 87.83751606941223,
+      "mem_after": 7860097024,
+      "mem_before": 7909912576,
+      "consumed": 49815552,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Detect if the Reddit thread contains hate speech. r/worldnews\n\u2022Posted by u/madneon_\n3 hours ago\nRussia \u2018borrows $13.6bn in largest ever debt issuance in a single day\u2019 to continue faltering war\n\nmacross1984 \u00b7 3 hr. ago\nRussia will become deadbeat.\n\nthrowaway12313223123 \u00b7 2 hr. ago\nbecome...? They been for a while\n\nmrkikkeli \u00b7 27 min. ago\nPutin: \"better be a slave in hell than a - wait what's the quote again?\"",
+      "response": [
+        "Detect if the Reddit thread contains hate speech. r/worldnews \u2022Posted by u/madneon_ 3 hours ago Russia \u2018borrows $13.6bn in largest ever debt issuance in a single day\u2019 to continue faltering war macross1984  3 hr. ago Russia will become deadbeat. throwaway12313223123  2 hr. ago become...? They been for a while mrkikkeli  27 min. ago Putin: \"better be a slave in hell than a - wait what's the quote again?\"  2 hr. ago Putin: \"better be a slave in hell than a - - - - - - - - - - "
+      ],
+      "time": 100.65824747085571,
+      "mem_after": 7911473152,
+      "mem_before": 7905148928,
+      "consumed": -6324224,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Given some political opinions, classify whether the person belongs to Democrats or Republicans. * Putting Kids First and Protecting Parents\u2019 Rights\n* Florida\u2019s Economy is Outpacing the Nation\n* Keeping Our Communities Safe\n* The Environment: Keeping Florida Beautiful\n* Protecting the Integrity of Our Elections\n* Standing Up for Moms and Florida Families\n* Florida: The Most Veteran-Friendly and Pro-Military State\n* Fighting Special Interests",
+      "response": [
+        "Given some political opinions, classify whether the person belongs to Democrats or Republicans. * Putting Kids First and Protecting Parents\u2019 Rights * Florida\u2019s Economy is Outpacing the Nation * Keeping Our Communities Safe * The Environment: Keeping Florida Beautiful * Protecting the Integrity of Our Elections * Standing Up for Moms and Florida Families * Florida: The Most Veteran-Friendly and Pro-Military State * Fighting Special Interests the State: The Most Friendly and Pro-Military State * Protecting the Constitution: The Most Friendly and Pro-Military State: The Most Friendly"
+      ],
+      "time": 93.63862109184265,
+      "mem_after": 7897567232,
+      "mem_before": 7901224960,
+      "consumed": 3657728,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense. Philadelphia is among the top 10 safest cities in the US.",
+      "response": [
+        "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense. Philadelphia is among the top 10 safest cities in the US. to me - tell me if the statement is true, false, or unknown, based on your knowledge and common sense. Based on your knowledge and common sense - tell me if the statement is"
+      ],
+      "time": 68.28988933563232,
+      "mem_after": 7815507968,
+      "mem_before": 7877963776,
+      "consumed": 62455808,
+      "model_parameters": 116750336
+    },
+    {
+      "type": "Default",
+      "checkpoint": "xlnet-base-cased",
+      "prompt": "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense. Philadelphia is among the top 10 safest cities in the US.",
+      "response": [
+        "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense. Philadelphia is among the top 10 safest cities in the US. to me - tell me if the statement is true, false, or unknown, based on your knowledge and common sense. Based on your knowledge and common sense - tell me if the statement is"
+      ],
+      "time": 74.92108654975891,
+      "mem_after": 7947268096,
+      "mem_before": 7965048832,
+      "consumed": 17780736,
+      "model_parameters": 116750336
+    }
+  ]
+}
