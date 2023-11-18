@@ -1,0 +1,795 @@
+type,checkpoint,prompt,response,time,mem_after,mem_before,consumed,model_parameters
+beam_5,xlnet-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","I s there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ?   I  ( ( a ) ) , but does not include anything that isn ' s a  "" "" , so that it can be easily  dec dec red red , while still still maintaining its ",162.2274523,9279881216,10281947136,1002065920,116750336
+beam_5,xlnet-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night  : Day  : : Right  : Left   I what I am what is it what it is what was it that it was that was the question was what did it she was in what the was she what she is she who is that she she,141.7713714,9081962496,9495412736,413450240,116750336
+beam_5,xlnet-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gene rate a one - s ent ence description for each of the following people .  - Brack Obama  - El on Musk  - Taylor Swift   Swift  ( The New York Times News Service )  –  "" A Swift "" is the first thing that you can tell me about the next person in the list of people who I am telling you",149.5296414,9030295552,9307586560,277291008,116750336
+beam_5,xlnet-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Describe a situation in which the given stereotype can harm you .  "" All Asian s are smart ! ""   Asia s Are Smart !  . All Asian Americans Are Intelligent !  10 - Asian American American is Smart ?  , I s it a stereotype that I ' m smart ?  11 - Asia American",123.0621789,8881483776,9210499072,329015296,116750336
+beam_5,xlnet-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gene rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ist of our workshop on multi mod ality at  CV PR . The workshop will be held on June 20 , 20 23 . Best , [ my name ]   you would be interested to participate in the workshop at the next meeting of the board of directors .    "" Hi , my name ) , best , you ' re going to have a good time",148.7069359,8697765888,9122013184,424247296,116750336
+beam_5,xlnet-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How do you answer this question in a job interview ? What do you think about when you are alone in a car ?   you know how you  se  en  a  cha  e  ee ee e ? How does you ask yourself how it  s me e - e to e . How is it all me,156.985395,9295044608,10280423424,985378816,116750336
+beam_5,xlnet-base-cased,Brainstorm a list of possible New Year's resolutions. ,Brain storm a list of possible New Year ' s resolutions .   ) ) and brain brain storm to storm storm off of potential potential possible possible new potential new new exciting new creative new fresh new brand new NEW NEW new created new all new and new free new creating new,123.9586039,9120071680,9282027520,161955840,116750336
+beam_5,xlnet-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following  idio m to me , and try to give me some examples . black sheep   in in and in out out in an in - in - in , in as out as in is in the out and out was in s in was out of in went in of out is out went",117.560643,9082880000,5613846528,-3469033472,116750336
+beam_5,xlnet-base-cased,Generate a haiku using the following word: summer,Gene rate a  hai ku using the following word : summer   in here in this here this this all this else you you me me you or or you I me I or I I you your or me or your I my you my or my I your me my,93.06624031,9101832192,9114791936,12959744,116750336
+beam_5,xlnet-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ,Re com men d a movie for me to watch during the weekend and explain the reason .   re Re Re Rev  i  (  ) )  - Re Rep re re Rep Re  e  re  dec  ate  d  m  s  t  r  l ,103.6456885,8803336192,8925093888,121757696,116750336
+beam_20,xlnet-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","I s there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ?   I  ( ( i ) ) , but does not include a minimum , so that it can be easier to get to a p . m . in a still - in - still - part s -",293.9460387,9236385792,10276196352,1039810560,116750336
+beam_20,xlnet-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night  : Day  : : Right  : Left   I what I am what is it what it is that is what was it that it was that was upon upon me what if it were that that which was in the name of the thing that I was,255.7417166,9144639488,9495248896,350609408,116750336
+beam_20,xlnet-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift",Gene rate a one - s ent ence description for each of the following people .  - Brack Obama  - El on Musk  - Taylor Swift   I s There a Ten - Per - Ten ence Description for Each of The Following People ?   The First Ten Per Per cent  ( Ten Per per cent ) is a ten per per cent ,286.7025878,8982593536,9307586560,324993024,116750336
+beam_20,xlnet-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Describe a situation in which the given stereotype can harm you .  "" All Asian s are smart ! ""   ' s the other side of the coin ? What if they ' re not smart ? How about they don ' t know what they do ? I s that what I ' m talking about ? Does that",257.8333707,8868335616,9210245120,341909504,116750336
+beam_20,xlnet-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gene rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ist of our workshop on multi mod ality at  CV PR . The workshop will be held on June 20 , 20 23 . Best , [ my name ]   you would be interested in participating in this workshop , please send me an email about your participation in the workshop . Good , you ' re very much welcome to join us on the panel ists ' panel .",245.3200045,8682733568,9121816576,439083008,116750336
+beam_20,xlnet-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How do you answer this question in a job interview ? What do you think about when you are alone in a car ?   you know how you  se  en  a  cha  e ? How does you ask yourself if you feel like it is all that you question ? I s it all about how it feels like,281.2221675,9014804480,10256650240,1241845760,116750336
+beam_20,xlnet-base-cased,Brainstorm a list of possible New Year's resolutions. ,"Brain storm a list of possible New Year ' s resolutions .   of thousands of them , and a number of of it that it is of a sort of  "" "" , "" and in the first instance of the new year ’ s resolution of whether or not it",231.4738224,5536690176,9282027520,3745337344,116750336
+beam_20,xlnet-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following  idio m to me , and try to give me some examples . black sheep   tried to  ( ( over ) ) to ) apparently explain Explain Explain explained further by Explain ed Explain further further ed by apparently further explaining further in further directions by allegedly further ing further still by clearly further",254.6141872,8933801984,5581516800,-3352285184,116750336
+beam_20,xlnet-base-cased,Generate a haiku using the following word: summer,"Gene rate a  hai ku using the following word : summer   should or should should be  ir  i  I  (  ) this this time in the in I am in my my in is I I ,  - - this is this in me in",220.0588639,8852246528,9114791936,262545408,116750336
+beam_20,xlnet-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ,"Re com men d a movie for me to watch during the weekend and explain the reason .   me for you to talk to me on the internet or explain why I can not not  e  i   (  ) to say a  ""  - - to be in a group for",255.3329909,8674471936,9006358528,331886592,116750336
+beam_10,xlnet-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","I s there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ?   I  ( ( a ) ) , but does not include anything that isn ' s a  "" "" , so that it can be easily  dec dec red red , while still still maintaining its ",220.1059778,9149685760,10282721280,1133035520,116750336
+beam_10,xlnet-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night  : Day  : : Right  : Left   I what I am what is it what it is that is what was it that it was that was upon upon me what if it were that which was in the name of the being that I was what,186.6250539,9055891456,9495412736,439521280,116750336
+beam_10,xlnet-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gene rate a one - s ent ence description for each of the following people .  - Brack Obama  - El on Musk  - Taylor Swift   Swift  ( The New York Times News Service )  "" The Swift Report is the Swift Profile . ""  .   The Fast Track to the Speed Profile is The Speed Report in the Fast Profile",196.2450633,8995856384,9307586560,311730176,116750336
+beam_10,xlnet-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Describe a situation in which the given stereotype can harm you .  "" All Asian s are smart ! ""   ' s a smart Asian ? What about you ? How about what about your friends ? Do you know what kind of Asian you are ? Are you in the same class as any of your other Asian friends",165.1662169,8999264256,9210499072,211234816,116750336
+beam_10,xlnet-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gene rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ist of our workshop on multi mod ality at  CV PR . The workshop will be held on June 20 , 20 23 . Best , [ my name ]   you would be interested to participate in the workshop at the next meeting of the board of directors . Good , you ' re very much welcome to join us in this workshop . I hope you were able to",195.9849114,8677085184,9122013184,444928000,116750336
+beam_10,xlnet-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How do you answer this question in a job interview ? What do you think about when you are alone in a car ?   you know how you  se  en  a  cha  e  ee ee e ? How does you ask yourself how it  s me - you do not know where you end - how do,215.6745012,9153712128,10276196352,1122484224,116750336
+beam_10,xlnet-base-cased,Brainstorm a list of possible New Year's resolutions. ,"Brain storm a list of possible New Year ' s resolutions .   ) ) , or new new New year s resolution , to point of point , point point - point - point  ( point point Point - Point - Point point point  Point Point point Point  -",174.4422278,9050169344,9282027520,231858176,116750336
+beam_10,xlnet-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following  idio m to me , and try to give me some examples . black sheep   ) to it to be tried Explain Explain simply as I explain to you exactly what exactly exactly it is in the back of the pig . explain further in further explain explain just as well as as how exactly",183.5835619,8984326144,5600354304,-3383971840,116750336
+beam_10,xlnet-base-cased,Generate a haiku using the following word: summer,"Gene rate a  hai ku using the following word : summer   should or should should be  ir  i  I  (  ) ) ( )  ,  -   .  :  ""  ;  !  ?  '  this ",147.4964206,8959524864,9114791936,155267072,116750336
+beam_10,xlnet-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ,Re com men d a movie for me to watch during the weekend and explain the reason .   me for you to talk to me on the internet or explain why I am not being able to make a  re fr re  e  ee ee e a la  cher cher a cre me for,163.4974341,8657903616,9006616576,348712960,116750336
+beam_15,xlnet-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","I s there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ?   I  ( ( i ) ) , but does not include a minimum , so that it can be easier to get to a p . m . in a still - in - still - part s -",265.8339291,9076932608,10280681472,1203748864,116750336
+beam_15,xlnet-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night  : Day  : : Right  : Left   I what I am what is it what it is that is what was it that it was that was in the name of what if was what and what what the was was which was at the time was,214.6778386,9129512960,9495412736,365899776,116750336
+beam_15,xlnet-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gene rate a one - s ent ence description for each of the following people .  - Brack Obama  - El on Musk  - Taylor Swift   Swift  ( The New York Times News Service )  "" The Swift Report is the Swift Profile . ""  .   The Fast , the Fast - The Fast Profile was the fast - the Fast",235.8748405,9087307776,9307586560,220278784,116750336
+beam_15,xlnet-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Describe a situation in which the given stereotype can harm you .  "" All Asian s are smart ! ""   ' s a smart Asian ? What is it that tells you that you ' re smart ? How do you tell it ? Why are you telling it to me ? I s it because I ' m smart",214.4581053,8858468352,9210499072,352030720,116750336
+beam_15,xlnet-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gene rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ist of our workshop on multi mod ality at  CV PR . The workshop will be held on June 20 , 20 23 . Best , [ my name ]   you would be interested in participating in this workshop , please send this email to me .    "" My name "" , my name is the name of the author of this article . I am writing",227.9783056,8687030272,9122013184,434982912,116750336
+beam_15,xlnet-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"How do you answer this question in a job interview ? What do you think about when you are alone in a car ?   you know how to do this ? How about how you question yourself in an in - in - a - sa s s ion ion  ( e . g . , how about if you ask yourself how",258.912493,9067847680,10269978624,1202130944,116750336
+beam_15,xlnet-base-cased,Brainstorm a list of possible New Year's resolutions. ,"Brain storm a list of possible New Year ' s resolutions .   ) ) , or new new year ’ s resolution list a number of potential New year resolutions possible , down the down to the end of the current year end  ( ) - - the up the the",210.0146315,9110048768,9282027520,171978752,116750336
+beam_15,xlnet-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following  idio m to me , and try to give me some examples . black sheep   tried to  ( ( over ) ) to ) apparently explain Explain Explain explained further by Explain ed Explain further further ed by apparently further explaining further in further directions by allegedly further ing further still by clearly further",227.7387619,8996859904,5587709952,-3409149952,116750336
+beam_15,xlnet-base-cased,Generate a haiku using the following word: summer,"Gene rate a  hai ku using the following word : summer   should or should should be  ir  i  I  (  ) this this time in the in  -   ,  this all this else , this is all else this  ven ",192.4611468,8881483776,9114791936,233308160,116750336
+beam_15,xlnet-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ,Re com men d a movie for me to watch during the weekend and explain the reason .   me for you to talk to me on the internet or explain why I can not not  e  i  -   (  )  el  ref  re fr me a a d for,212.5736573,8702402560,9006358528,303955968,116750336
+beam_5,bert-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? "," Is there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 ca ##lor ##ies ?  . "" "" . . a a ' ' s s t ##t ##t t t T T ##T ##T T t ##T t s S S N N T S T R R L L S L R S",40.88234997,8528306176,10311606272,1783300096,108340804
+beam_5,bert-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left," What is the relation between the given pairs ? Night : Day : : Right : Left  . . and and . the the two two pair pair - - no no with with to to . , , where Where Where where where = = + + - + plus plus minus minus plus + =",33.81971097,8366047232,9044975616,678928384,108340804
+beam_5,bert-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift"," Gene ##rate a one - sentence description for each of the following people . - B ##rack Obama - El ##on Mu ##sk - Taylor Swift  . and and . . a a - - word word term term , , in in In In . the the The The the is is was was is it it he he it what What What what what",37.12608433,8101339136,8740433920,639094784,108340804
+beam_5,bert-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!"""," Des ##cribe a situation in which the given stereo ##type can harm you . "" All Asian ##s are smart ! ""  . . ' ' "" "" , , "" and and And And But But Yet Yet yet yet still still Still Still is is Is Is It It it what what What What what the the The The the",35.74763846,7940358144,8176594944,236236800,108340804
+beam_5,bert-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]"," Gene ##rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ##ist of our workshop on multi ##mo ##dal ##ity at C ##VP ##R . The workshop will be held on June 20 , 202 ##3 . Best , [ my name ]  . . "" "" ' ' . ' "" . ... ... and And And The The the the a a and and . , , "" and "" to to me me I I is am am is is",39.11397147,7361720320,8274120704,912400384,108340804
+beam_5,bert-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?," How do you answer this question in a job interview ? What do you think about when you are alone in a car ?  . "" "" . . and and And And But But "" I I is am am I me me is is was was I you you have have had had been been was is are are and what what",38.93434095,8537079808,10303348736,1766268928,108340804
+beam_5,bert-base-cased,Brainstorm a list of possible New Year's resolutions. ," Brain ##storm a list of possible New Year ' s resolutions .  . . and and . the the The The ' ' . ... ... and And And But but but But But Yet Yet yet yet , , . but . "" "" . I I was was not not",33.00615382,8424747008,8324886528,-99860480,108340804
+beam_5,bert-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep"," Ex ##plain the following id ##io ##m to me , and try to give me some examples . black sheep  . . and and And And Since Since since since for for For For To To to to the the The The In in in In In On On on on On Off Off off off away Away away away",33.59491873,8260530176,8519479296,258949120,108340804
+beam_5,bert-base-cased,Generate a haiku using the following word: summer," Gene ##rate a ha ##ik ##u using the following word : summer  . . and and . , , and And And and ; ; . "" "" . a a - - ' ' . ... ... and "" , ; | | } } { { [ [ ' |",29.86309981,8234876928,8057905152,-176971776,108340804
+beam_5,bert-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ," Re ##com ##men ##d a movie for me to watch during the weekend and explain the reason .  . "" "" . . and and "" , , "" it it is is was I I was was been been be be to to me me my my your your you you we we are are have have",31.45464802,7975124992,8013033472,37908480,108340804
+beam_10,bert-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? "," Is there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 ca ##lor ##ies ?  . "" "" . . the the ' ' , , I I ' have have had had been been was was is is are are with with had has has s a a an an and and for for",51.47530222,8223584256,10310316032,2086731776,108340804
+beam_10,bert-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left," What is the relation between the given pairs ? Night : Day : : Right : Left  . . and and . the the for for of of are are is is was was it it is be be have have had had has has had been been was got got get get , , let let",44.70767879,8186056704,9110216704,924160000,108340804
+beam_10,bert-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift", Gene ##rate a one - sentence description for each of the following people . - B ##rack Obama - El ##on Mu ##sk - Taylor Swift  . . I I - - in In In in in the the The The A A B B C C G G E E e e i i I E W W V V T T S S T,47.89577937,7800074240,8838971392,1038897152,108340804
+beam_10,bert-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!"""," Des ##cribe a situation in which the given stereo ##type can harm you . "" All Asian ##s are smart ! ""  . . ' ' "" , , "" "" and and And And In In in in a a A A E E C C G G F F S S L L R R G D D F G",43.71580362,7724720128,8209330176,484610048,108340804
+beam_10,bert-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]"," Gene ##rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ##ist of our workshop on multi ##mo ##dal ##ity at C ##VP ##R . The workshop will be held on June 20 , 202 ##3 . Best , [ my name ]  . . "" "" ' ' . ' , , and and And And The The the the to to of of a a t t ] ) ) ] ] } } { { [ ( ( [ [",47.26090789,7683629056,8303202304,619573248,108340804
+beam_10,bert-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?, How do you answer this question in a job interview ? What do you think about when you are alone in a car ?  . . and and And And But But but but But Yet yet yet is is it it what what What What Why Why Is Is is was I I was was when when When When Where Where Who Who,49.17975903,8314159104,10302574592,1988415488,108340804
+beam_10,bert-base-cased,Brainstorm a list of possible New Year's resolutions. , Brain ##storm a list of possible New Year ' s resolutions .  . . and and . the the ' ' a A A B B C C S S R R M M G G L S L L R G H H E E H R H G R L,42.41562366,8247889920,8437481472,189591552,108340804
+beam_10,bert-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep"," Ex ##plain the following id ##io ##m to me , and try to give me some examples . black sheep  . . "" "" , , I I ' ' t t to to you you he he was was is is was it what what be be have have had had have and and that that said said he",44.5459671,7922978816,8519479296,596500480,108340804
+beam_10,bert-base-cased,Generate a haiku using the following word: summer," Gene ##rate a ha ##ik ##u using the following word : summer  . "" "" . . a a ' ' an an - - f f ##f ##f f F F "" ' "" , , ; ; | | } } { { ; f "" - + + -",39.84207487,7964319744,8089911296,125591552,108340804
+beam_10,bert-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ," Re ##com ##men ##d a movie for me to watch during the weekend and explain the reason .  . "" . . and and "" "" , , "" it it is is was was I I is am am I me me my my your your you you we we are are were were was were and",41.6198473,7605919744,8013033472,407113728,108340804
+beam_15,bert-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? "," Is there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 ca ##lor ##ies ?  . "" "" . . a a ' ' s s t t T T N N R R W W S S R L L S W R S L R M M H H T S H L",59.05485296,8018792448,10308251648,2289459200,108340804
+beam_15,bert-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left, What is the relation between the given pairs ? Night : Day : : Right : Left  . . the the other other to to and and And And But But but but if If if if it it was was is is was he he it what what What What When When Before Before before before,48.38975286,8154013696,9142272000,988258304,108340804
+beam_15,bert-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift", Gene ##rate a one - sentence description for each of the following people . - B ##rack Obama - El ##on Mu ##sk - Taylor Swift  . . I I - - in in the the to to of of a a ' ' s s t t T T ##T ##T t ##t ##t t r r ##r ##r e e i i u u,55.77419138,7691214848,8838971392,1147756544,108340804
+beam_15,bert-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!"""," Des ##cribe a situation in which the given stereo ##type can harm you . "" All Asian ##s are smart ! ""  . . I I "" "" , , "" and and And And In in in a a an an ' ' s s t t T T S S N N R R L L T L S L",51.74613333,8017502208,8306851840,289349632,108340804
+beam_15,bert-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]"," Gene ##rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ##ist of our workshop on multi ##mo ##dal ##ity at C ##VP ##R . The workshop will be held on June 20 , 202 ##3 . Best , [ my name ]  . . "" "" and and And And The The the the ' ' s s t t r r ] ] ) ) ] } } { { [ [ ( ( ; ; | | < < [",51.12653875,7448850432,8388259840,939409408,108340804
+beam_15,bert-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?," How do you answer this question in a job interview ? What do you think about when you are alone in a car ?  . "" . ... ... and and And And "" "" , , "" I I is am am I me me is is he he was was you you me are are who who he him him that that",56.36569381,8103092224,10301026304,2197934080,108340804
+beam_15,bert-base-cased,Brainstorm a list of possible New Year's resolutions. , Brain ##storm a list of possible New Year ' s resolutions .  . . and and . the the The The ' ' a a - - do do did did had have have had had with with to to it it was was is was I I me me my my,49.39182758,8199569408,8543043584,343474176,108340804
+beam_15,bert-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep"," Ex ##plain the following id ##io ##m to me , and try to give me some examples . black sheep  . . the the ' ' s s t t T T ##T ##T t r r R R W W S S P P U U L L R L S R M M T S N N S",54.32255697,7794212864,8519479296,725266432,108340804
+beam_15,bert-base-cased,Generate a haiku using the following word: summer," Gene ##rate a ha ##ik ##u using the following word : summer  . "" "" . . a a ' ' s s t t - - w w W W T T S S N N U U u u l l r r R R L L H H L",46.58133245,7804436480,8122441728,318005248,108340804
+beam_15,bert-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ," Re ##com ##men ##d a movie for me to watch during the weekend and explain the reason .  . "" . . and and "" "" , , "" I I ' ' m m a a an an t t c c s s l l r r e e i i u u l v v",49.92064023,7406759936,8013033472,606273536,108340804
+beam_20,bert-base-cased,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? "," Is there anything I can eat for a breakfast that doesn ' t include eggs , yet includes protein , and has roughly 700 - 1000 ca ##lor ##ies ?  . "" "" . . the the a a ' ' s s t t h h H h t T T t l l r r g g G G H H L L S S R R L",65.44410682,8699572224,10308509696,1608937472,108340804
+beam_20,bert-base-cased,What is the relation between the given pairs? Night : Day :: Right : Left, What is the relation between the given pairs ? Night : Day : : Right : Left  . . the the and and of of are are is is was was he he it it is be be have have has has had had been been was were were are were they they we we that that,53.38768864,8434380800,9142272000,707891200,108340804
+beam_20,bert-base-cased,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift", Gene ##rate a one - sentence description for each of the following people . - B ##rack Obama - El ##on Mu ##sk - Taylor Swift  . . I I - - in in the the to to of of a a ' ' s s t t T T ##T ##T t r r R R W W S S R L L S L,61.94355822,8083615744,8838971392,755355648,108340804
+beam_20,bert-base-cased,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!"""," Des ##cribe a situation in which the given stereo ##type can harm you . "" All Asian ##s are smart ! ""  . . ' ' , , "" "" and and And And But but but But But Not Not not not to to you you are are is is it it was was been been be be have had had",60.12760425,7985295360,8350437376,365142016,108340804
+beam_20,bert-base-cased,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]"," Gene ##rate an appropriate subjective title for the following email : Hi [ person name ] , I ' m writing to ask you if you are happy to be a panel ##ist of our workshop on multi ##mo ##dal ##ity at C ##VP ##R . The workshop will be held on June 20 , 202 ##3 . Best , [ my name ]  . . "" "" I I is am am m m ' ' t t s s S S T T C C G G R R M M N N H H W W S P P E E",54.94802451,7330959360,8388259840,1057300480,108340804
+beam_20,bert-base-cased,How do you answer this question in a job interview? What do you think about when you are alone in a car?, How do you answer this question in a job interview ? What do you think about when you are alone in a car ?  . . and And And What what what What What Are are Are Are You You you you believe believe are are is is was I I was was who who me me did did do do did and and,62.67540407,7913385984,10298445824,2385059840,108340804
+beam_20,bert-base-cased,Brainstorm a list of possible New Year's resolutions. , Brain ##storm a list of possible New Year ' s resolutions .  . . and and the the ' ' a A A B B C C S S R R M M G G H H E E S L L S F F P P E H G F G,51.97276282,8192352256,8542556160,350203904,108340804
+beam_20,bert-base-cased,"Explain the following idiom to me, and try to give me some examples. black sheep"," Ex ##plain the following id ##io ##m to me , and try to give me some examples . black sheep  . . the the ' ' s s t t T T ##T ##T t r r R R W W S S N N U U Y Y L L S R M M T S L R L",60.26135254,7712448512,8519479296,807030784,108340804
+beam_20,bert-base-cased,Generate a haiku using the following word: summer," Gene ##rate a ha ##ik ##u using the following word : summer  . "" "" . . a a ' ' s s t t T T S S R R U U u u l l L L S N N H H T R L R S T L l",51.33299875,7659749376,8131653632,471904256,108340804
+beam_20,bert-base-cased,Recommend a movie for me to watch during the weekend and explain the reason. ," Re ##com ##men ##d a movie for me to watch during the weekend and explain the reason .  . "" "" . . but but But But . I I was was never never Never Never and and And And and "" , , that that said said you you was were a a ' ' s s",57.46687126,7266136064,8013033472,746897408,108340804
+beam_5,bigscience/bloom-560m,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 -1000  cal ories ?   If  so ,  what  is  the  best  way  to  make  it ?
+
+ A: 
+
+ If  you  want  to  add  protein  to  your  breakfast ,  you  can  use  a  low -f at ,  low -g lyc emic  protein  breakfast  cereal .",168.9001193,3387199488,6788022272,3400822784,559214592
+beam_5,bigscience/bloom-560m,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  ::  Left  :  Right  ::  Night  ::  Day 
+ I  want  to  know  if  there  is  a  way  to  do  this .  I  have  a  list  of  pairs  and  I  would  like  to  add  a  new  pair  to  the  list",158.7386534,2618384384,2804293632,185909248,559214592
+beam_5,bigscience/bloom-560m,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Generate  a  one -s ent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift 
+ The  first  sentence  describes  the  person ,  the  second  the  action ,  and  the  third  the  result .  The  third  sentence  is  optional  and  can  be  used  to  describe  any  other  person  or  action .  For  example ,  if",171.6864533,3313020928,6508515328,3195494400,559214592
+beam_5,bigscience/bloom-560m,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Des cribe  a  situation  in  which  the  given  stere otype  can  harm  you .  ""All  Asi ans  are  smart ! ""  is  a  good  example  of  a  stere otyp ical  statement . ",148.2544897,3130626048,3054444544,-76181504,559214592
+beam_5,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] ,  [ email  protected ] 
+
+ A: 
+
+ I  am  not  sure  if  this  is  the  best  way  to  do  it ,  but  I  think  it  is  a  good  idea .
+ First  of  all ,  I  would  like  to  thank",105.6089513,2928418816,3447230464,518811648,559214592
+beam_5,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] ,  [ email  protected ] 
+
+ A: 
+
+ I  am  not  sure  if  this  is  the  best  way  to  do  it ,  but  I  think  it  is  a  good  idea .
+ First  of  all ,  I  would  like  to  thank",98.39506292,2087960576,2456023040,368062464,559214592
+beam_10,bigscience/bloom-560m,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 -1000  cal ories ?   If  so ,  what  is  the  best  way  to  do  it ?
+
+ A: 
+
+ I  don't  know  if  this  is  a  good  question  to  ask ,  but  if  you  want  to  make  a  protein  breakfast ,  you  can  use  a",220.6937745,2875572224,6786822144,3911249920,559214592
+beam_10,bigscience/bloom-560m,What is the relation between the given pairs? Night : Day :: Right : Left,What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  ::  Time  :  Time  ::  Date  :  Date  ::  Name  :  Name  ::  Age  :  Age  ::  Height  :  Height  ::  Weight  :  Weight  ::  Body  :  Body  ::  Sex  :  Sex  ::  Race  :  Race  ::  Religion  :  Religion,195.7736251,2274775040,2804293632,529518592,559214592
+beam_10,bigscience/bloom-560m,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Generate  a  one -s ent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",220.3230412,2859839488,6507483136,3647643648,559214592
+beam_10,bigscience/bloom-560m,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Des cribe  a  situation  in  which  the  given  stere otype  can  harm  you .  ""All  Asi ans  are  smart ! "" ",206.8279781,2446016512,3056680960,610664448,559214592
+beam_10,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] 
+
+ I  am  interested  in  participating  in  this  workshop .  Please  send  me  an  email  with  your  name ,  email  address ,  and  phone  number .  Thank  you .
+
+ A: 
+
+ If  you  want  to  participate  in  the  workshop ,",144.0122576,2460217344,3447230464,987013120,559214592
+beam_10,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] 
+
+ I  am  interested  in  participating  in  this  workshop .  Please  send  me  an  email  with  your  name ,  email  address ,  and  phone  number .  Thank  you .
+
+ A: 
+
+ If  you  want  to  participate  in  the  workshop ,",134.9318025,1664708608,2488733696,824025088,559214592
+beam_15,bigscience/bloom-560m,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 -1000  cal ories ?   If  so ,  what  is  the  best  way  to  make  it ?
+
+ A: 
+
+ I  don't  know  if  this  is  what  you  are  looking  for ,  but  here  are  a  few  things  to  consider : 
+
+ Do  you  want  to",253.680618,2518147072,6786932736,4268785664,559214592
+beam_15,bigscience/bloom-560m,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  ::  Up  :  Down  ::  Left Up  :  Right Down  :  Up Down 
+ I  want  to  know  if  there  is  a  way  to  check  if  a  given  pair  is  right  or  left  or  up  or  down ?
+
+ A: 
+
+",214.0610425,1993297920,3342897152,1349599232,559214592
+beam_15,bigscience/bloom-560m,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Generate  a  one -s ent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",252.202564,2559750144,6505676800,3945926656,559214592
+beam_15,bigscience/bloom-560m,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Des cribe  a  situation  in  which  the  given  stere otype  can  harm  you .  ""All  Asi ans  are  smart ! "" ",245.7835829,2203820032,3284598784,1080778752,559214592
+beam_15,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] ,  [ email  protected ] 
+
+ I  would  like  to  thank  you  for  your  interest  in  participating  in  this  workshop .  I  hope  that  you  will  find  it  interesting  and  inform ative .  Thank  you  very  much .
+
+ A: 
+
+",166.6889148,2205900800,3444133888,1238233088,559214592
+beam_15,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] ,  [ email  protected ] 
+
+ I  would  like  to  thank  you  for  your  interest  in  participating  in  this  workshop .  I  hope  that  you  will  find  it  interesting  and  inform ative .  Thank  you  very  much .
+
+ A: 
+
+",159.6214702,1756491776,2761261056,1004769280,559214592
+beam_20,bigscience/bloom-560m,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 -1000  cal ories ?   If  so ,  what  is  the  best  way  to  do  it ?
+
+ A: 
+
+ If  you  want  to  add  protein  to  your  breakfast ,  you  need  to  make  sure  that  the  protein  is  in  the  form  of  whe y  protein",306.0101304,2504835072,6786269184,4281434112,559214592
+beam_20,bigscience/bloom-560m,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left 
+ I  want  to  know  if  there  is  a  way  to  check  if  a  given  pair  is  right  or  left ?
+
+ A: 
+
+ You  can  do  it  like  this: 
+ def  is Right ( left ,  right ) : 
+   ",249.646055,2343010304,3374657536,1031647232,559214592
+beam_20,bigscience/bloom-560m,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Generate  a  one -s ent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",248.8560109,2471493632,6493806592,4022312960,559214592
+beam_20,bigscience/bloom-560m,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Des cribe  a  situation  in  which  the  given  stere otype  can  harm  you .  ""All  Asi ans  are  smart ! "" ",267.7292893,2206978048,3547480064,1340502016,559214592
+beam_20,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] ,  [ email  protected ] 
+
+ I  would  like  to  thank  you  for  your  interest  in  participating  in  this  workshop .  I  hope  that  you  will  find  it  interesting  and  inform ative .  Thank  you  very  much .
+
+ A: 
+
+",181.1690381,2054029312,3443359744,1389330432,559214592
+beam_20,bigscience/bloom-560m,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Generate  an  appropriate  subjective  title  for  the  following  email:  Hi  [ person  name ] ,
+
+ I'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  2023 . 
+
+ Best ,
+ [ my  name ] ,  [ email  protected ] 
+
+ I  would  like  to  thank  you  for  your  interest  in  participating  in  this  workshop .  I  hope  that  you  will  find  it  interesting  and  inform ative .  Thank  you  very  much .
+
+ A: 
+
+",174.284375,1565442048,2728280064,1162838016,559214592
+beam_25,distilgpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?   ________________ __ ",28.5171051,9391845376,10341756928,949911552,81912576
+beam_25,distilgpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right . 
+ 
+ Night  is  a  function  that  takes  a  pair  of  pairs  of  two  pairs  and  returns  a  value  of  the  pair .  The  function  is  called  in  the  following  way : 
+ night  :  Night  ::",25.6776576,9297883136,9351086080,53202944,81912576
+beam_25,distilgpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",29.65113974,8986259456,9253638144,267378688,81912576
+beam_25,distilgpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !"" ",12.23984742,9080168448,9196896256,116727808,81912576
+beam_25,distilgpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",15.59322572,8565694464,9063170048,497475584,81912576
+beam_25,distilgpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? ,17.27546239,9377370112,10335305728,957935616,81912576
+beam_25,distilgpt2,Brainstorm a list of possible New Year's resolutions. ,Brain storm  a  list  of  possible  New  Year 's  resolutions .   ________________ __ ,13.88545871,9361272832,9512517632,151244800,81912576
+beam_25,distilgpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep : 
+ 
+ I  don 't  know  what  to  do  with  it ,  but  I 'm  sure  I 'll  be  able  to  use  it  in  the  future . ",23.68126583,9255604224,9280929792,25325568,81912576
+beam_25,distilgpt2,Generate a haiku using the following word: summer,"Gener ate  a  ha iku  using  the  following  word :  summer ,  winter ,  spring ,  summer . ",21.5859282,9122885632,9316876288,193990656,81912576
+beam_25,distilgpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .   ________________ __ ,27.77557182,8951422976,9313398784,361975808,81912576
+beam_210,distilgpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?   ________________ __ ",39.66827536,9317601280,10340724736,1023123456,81912576
+beam_210,distilgpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right 
+ 
+ Night  is  a  function  that  takes  a  number  of  parameters  and  returns  a  list  of  the  parameters .  It  can  also  be  used  to  calculate  the  value  of  a  given  pair .  In  this  case ,",33.72492027,9210462208,9343344640,132882432,81912576
+beam_210,distilgpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",33.51792884,9000988672,9253470208,252481536,81912576
+beam_210,distilgpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !"" ",9.830699921,9096151040,9196777472,100626432,81912576
+beam_210,distilgpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",18.277107,8821608448,9104396288,282787840,81912576
+beam_210,distilgpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? ,14.88609338,9370542080,10333241344,962699264,81912576
+beam_210,distilgpt2,Brainstorm a list of possible New Year's resolutions. ,Brain storm  a  list  of  possible  New  Year 's  resolutions .   ________________ __ ,20.12109876,9252315136,9512517632,260202496,81912576
+beam_210,distilgpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep : 
+ 
+ If  you  have  any  questions ,  please  let  me  know  in  the  comments  below . ",18.94586635,9318539264,9280929792,-37609472,81912576
+beam_210,distilgpt2,Generate a haiku using the following word: summer,Gener ate  a  ha iku  using  the  following  word :  summer . ,19.96435475,9169076224,9316720640,147644416,81912576
+beam_210,distilgpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .   ________________ __ ,22.14799356,9050755072,9313398784,262643712,81912576
+beam_215,distilgpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?   ________________ __ ",44.19798493,9215758336,10339434496,1123676160,81912576
+beam_215,distilgpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right 
+ 
+ Night  is  a  function  that  takes  a  number  of  parameters  and  returns  a  list  of  the  parameters .  In  this  case ,  the  first  parameter  is  an  integer ,  and  the  second  parameter  can  be  a",39.6687851,9178882048,9343344640,164462592,81912576
+beam_215,distilgpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",34.65001965,8975958016,9253470208,277512192,81912576
+beam_215,distilgpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !"" ",16.2604382,9055469568,9196777472,141307904,81912576
+beam_215,distilgpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",21.91380668,8820883456,9186848768,365965312,81912576
+beam_215,distilgpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? ,19.34214711,9464573952,10331435008,866861056,81912576
+beam_215,distilgpt2,Brainstorm a list of possible New Year's resolutions. ,Brain storm  a  list  of  possible  New  Year 's  resolutions .   ________________ __ ,21.81817174,9220890624,9512517632,291627008,81912576
+beam_215,distilgpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep . ",22.85745311,9265410048,9280671744,15261696,81912576
+beam_215,distilgpt2,Generate a haiku using the following word: summer,Gener ate  a  ha iku  using  the  following  word :  summer . ,23.20694733,9122885632,9316720640,193835008,81912576
+beam_215,distilgpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .   ________________ __ ,27.85921621,9012981760,9313398784,300417024,81912576
+beam_220,distilgpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?   ________________ __ ",49.12563348,9117306880,10337370112,1220063232,81912576
+beam_220,distilgpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right 
+ 
+ Night  is  a  function  that  takes  a  number  of  parameters  and  returns  a  list  of  the  parameters .  In  this  case ,  there  are  two  parameters : 
+ 1  2  3  4  5  6  7  8",45.2270081,9122885632,9343344640,220459008,81912576
+beam_220,distilgpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",37.00971174,9065930752,9253470208,187539456,81912576
+beam_220,distilgpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !"" ",14.66248536,9052053504,9196777472,144723968,81912576
+beam_220,distilgpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",23.38175488,8820883456,9186668544,365785088,81912576
+beam_220,distilgpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? ,21.29389858,9397485568,10329370624,931885056,81912576
+beam_220,distilgpt2,Brainstorm a list of possible New Year's resolutions. ,Brain storm  a  list  of  possible  New  Year 's  resolutions .   ________________ __ ,23.44444776,9211629568,9512517632,300888064,81912576
+beam_220,distilgpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep . ",25.94573474,9218445312,9280671744,62226432,81912576
+beam_220,distilgpt2,Generate a haiku using the following word: summer,Gener ate  a  ha iku  using  the  following  word :  summer . ,26.61272669,9233879040,9316720640,82841600,81912576
+beam_220,distilgpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .   ________________ __ ,30.03873944,8999694336,9313398784,313704448,81912576
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is there anything I can eat for a breakfast that doesn 't include eggs , yet includes protein , and has roughly 700 - 1000 calories ? plug plug novel novel comic comic challenged comic novel plug comic plug spectacular comic unlawfully reluctantly unlawfully unlawfully unilaterally reluctantly reluctantly peacefully reluctantly unilaterally unilaterally unlawfully disarm spectacular Renault spectacular Enough jumper comic Bor comic cation reluctantly disarm comic spectacular",126.3661749,4379373568,7946067968,3566694400,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night : Day :: Right : Left coll plug plug bomb plug hammer opener Cater plug Cater challenged Cater spectacular BBC Cater encounter Cater late late Cater Cater att dr Geoffrey Cater inst Cater unlawfully unlawfully reluctantly reluctantly dispatch organisers itzer spectacular Fields Fields Cater dispose Reid,110.3836021,3832131584,5144653824,1312522240,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift",Gen erate a one - sent ence description for each of the following people . - B rack Obama <unk> - Elon Musk <unk> - Taylor Swift spectacular spectacular hitting hitting target hitting reluctantly comic comic arc novel Renault novel Cum Lie Lie reluctantly Lie Nichols novel Lie Compton comic reluctantly reluctantly Compton Garcia comic Webb comic outfield outfield Baseball Baseball Rutherford plug dispose dispose Winner Reid,113.4772828,3246526464,4520153088,1273626624,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","De scribe a situation in which the given stereotype can harm you . "" All Asians are smart !"" spectacular spectacular plug plug spectacular reluctantly plug reluctantly Gol plug Plaza Il plug Oil unloaded reluctantly reluctantly Lie McGee plug IRA spectacular launching launching IRA comic comic novel novel IRA plug comic IRA novel Cos comic Cos spectacular Cos plug",109.3099654,3344154624,4367040512,1022885888,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gen erate an appropriate subjective title for the following email : Hi [ person name ], <unk> I 'm writing to ask you if you are happy to be a pan elist of our workshop on multi mod ality at CV PR . The workshop will be held on June 20 , 2 023 .  <unk> Best , <unk> [ my name ] challenged challenged comic comic novel novel book irc challenged payers spectacular Hit Hit hit irc plug plug spectacular reluctantly unlawfully Highly reluctantly dispose dispose Close reluctantly reluctantly Lie inquiry dispose Lie Webb spectacular Reid plug suit Webb Reid heated Reid",123.1174996,2322952192,4082515968,1759563776,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How do you answer this question in a job interview ? What do you think about when you are alone in a car ? spectacular spectacular plug plug spectacular comic comic Alan comic reluctantly reluctantly Unless Ultimately reluctantly Compton comic Upton comic Aut comic Expert expert Lie Aut plug novel novel plug suit Garcia comic Lie Lie Voice spectacular Compton novel Lightning Lightning Compton,122.3680801,4437000192,7937818624,3500818432,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,Brainstorm a list of possible New Year's resolutions. ,Brain storm a list of possible New Year 's resolutions . troubled troubled frontline troubled Queensland novel novel specialist specialist frontline frontline lists Emirates Emirates Organisation Organisation Queensland Queensland Borough lob Oil organised Plaza Organisation Lie Said Leading Queensland organised Lie comic bins Able Towers organise Plaza Plaza reluctantly reluctantly Plaza,102.7629676,4018126848,4369166336,351039488,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following id iom to me , and try to give me some examples . black sheep spectacular spectacular plug plug novel plug comic quiz Reid novel novel Hurt Hurt Shar comic ingham stranger Able spectacular Able Buck Buck Tip reluctantly reluctantly unlawfully Rubin novel Able Rubin Rubin reluctantly unilaterally Reid spectacular flash flash pell pell Reid",106.2376802,3602075648,3662565376,60489728,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,Generate a haiku using the following word: summer,Gen erate a ha iku using the following word : summer comic Ic comic Robinson plug plug trigger Pool Pool Reports Compton Cox Compton Rocks Rocks Pool Rocks Compton Reid Reid dispose dispose Cox Reid Garcia Compton Compton McGee Garcia Garcia Reid Compton Clark Reid Winning Reid comic Reid plug Pool,98.79408073,3968544768,3311677440,-656867328,354452662
+beam_5,google/bert_for_seq_generation_L-24_bbc_encoder,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend a movie for me to watch during the weekend and explain the reason . comic comic plug plug Briggs plug Fields plug Plaza comic Plaza reluctantly Plaza peacefully per reluctantly Cox plug per peacefully Cox spectacular emerging per Cox novel Cox suit Cox Cox emerging Field emerging Foley Cox Track Cox peacefully Reid plug,88.70754123,4113387520,3722960896,-390426624,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is there anything I can eat for a breakfast that doesn 't include eggs , yet includes protein , and has roughly 700 - 1000 calories ? plug plug comic comic challenged Warner plug spectacular spectacular plug unlawfully Birmingham comic ery reluctantly reluctantly unlawfully unlawfully reluctantly unilaterally reluctantly jurisdiction plug blink quiz organisers qualifier jumper jumper qualifier dwarf dwarf novel novel enter unlawfully jumper Cox comic dwarf",156.3075373,3757604864,7945293824,4187688960,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night : Day :: Right : Left coll plug plug bomb plug hammer opener Cater plug Cater challenged Cater encounter Cater spectacular Cater suit Cater peacefully Cater Cater iar eller Cater unlawfully unilaterally dispatch Cater contention Cater hers hers Cater dispatch dispatch organisers organisers Winning Cater itzer,133.4944015,3397218304,5210152960,1812934656,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift",Gen erate a one - sent ence description for each of the following people . - B rack Obama <unk> - Elon Musk <unk> - Taylor Swift spectacular novel novel Per Per reluctantly Webb comic utility planner Plaza Compton Communication reluctantly Compton qualifier qualifier outfield Webb Webb Garcia Compton Cox Lie Lie Tobacco Tobacco Lie Compton pointer jumper jumper dispose novel dispose dispose Garcia Rubin plug plug,140.3719232,2639978496,4618690560,1978712064,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","De scribe a situation in which the given stereotype can harm you . "" All Asians are smart !"" encounter encounter Salt plug plug comic comic Alan indirectly Salt comic Sue gue Ultimately reluctantly Per Per per spectacular spectacular per per launching lated reluctantly reluctantly peacefully ster ster list lists lists Reports peacefully Salt opener Salt heated Salt spectacular",130.124145,2878054400,4482338816,1604284416,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gen erate an appropriate subjective title for the following email : Hi [ person name ], <unk> I 'm writing to ask you if you are happy to be a pan elist of our workshop on multi mod ality at CV PR . The workshop will be held on June 20 , 2 023 .  <unk> Best , <unk> [ my name ] challenged challenged comic comic novel novel book irc novel per per spectacular Hit Hit Jar novel irc suit novel Lie Mis Mis Keith spectacular reluctantly unlawfully unlawfully Lie unlawfully Per Lie Lie dispose unlawfully reluctantly reluctantly Lie reluctantly unilaterally unlawfully",150.2625716,3082579968,4518633472,1436053504,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How do you answer this question in a job interview ? What do you think about when you are alone in a car ? spectacular spectacular plug plug spectacular comic comic Alan encounter Communication comic reluctantly reluctantly Unless reluctantly Aut comic Compton challenged reluctantly Compton comic Aut Aut troubled Aut Whilst Compton spectacular Compton comedy Compton xton heated Aut Cox suit Compton Compton Cox,154.4989698,3820380160,7933689856,4113309696,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,Brainstorm a list of possible New Year's resolutions. ,Brain storm a list of possible New Year 's resolutions . encounter Aid spectacular spectacular List reluctantly reluctantly dispose encounter Files Per Per dispose dispose Rules Reid plug Ox plug string Ox emerging Oil Links Lie Links dispose Pool Pool Links Links Pool Edmonton challenged Reid troubled emerging grouped emerging bowling,131.2942657,3537473536,4499677184,962203648,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following id iom to me , and try to give me some examples . black sheep challenged challenged encounter encounter Alt challenged Zero plug plug Quentin encounter Quentin plug Voice comic Fields plug reluctantly Plaza Garcia Cue Cue darts darts derby darts pol pol darts Pool Compton plug darts Reid Reid reluctantly reluctantly Compton Reid unlawfully",133.0015612,3160367104,3793805312,633438208,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,Generate a haiku using the following word: summer,Gen erate a ha iku using the following word : summer comic Ic pol Reid Reid peacefully Pool Pool Ic Ic novel Cos Cox Pool Reid plug Pool Rocks Reid dispose Reid Garcia Compton Garcia Garcia Reid McGee Reid Rocks Pool Rules Reid Clark Compton Reid Price Reid Highly McGee Pool,127.1341963,3526311936,3442417664,-83894272,354452662
+beam_10,google/bert_for_seq_generation_L-24_bbc_encoder,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend a movie for me to watch during the weekend and explain the reason . comic comic plug plug Briggs plug Fields plug Plaza spectacular Plaza Fields Fields Plaza peacefully Cox Cox Compton emerging Cox Field peacefully Reid Reid Missing Cox quiz Cox disarm alert Reid spectacular Cox Hit Hit Cox Track Cox unilaterally Reid,119.8180883,3514810368,3722960896,208150528,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is there anything I can eat for a breakfast that doesn 't include eggs , yet includes protein , and has roughly 700 - 1000 calories ? lim lim gb gb oug oug bh bh tw tw Gw Gw Cov Cov Robinson Robinson Compton Cox unlawfully Charter Ahmad Robinson unlawfully unlawfully Drivers collided Drivers Vehicles Vehicles Compton unlawfully Corruption Responsibility unilaterally Investigators Events Responsibility Plaza Rules Responsibility",177.0853887,3377766400,7944777728,4567011328,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night : Day :: Right : Left Gas plug plug opener plug hammer Hammer Reid plug Rubin Rubin quiz comic comic Winston Winston Stafford Stafford Reid spectacular Reid comic Reid suit Reid Reid prompt Reid dim Reid pol pol 755 pol Rutherford Reid dispose Reid Gl Reid,149.9484532,3079438336,5407899648,2328461312,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift",Gen erate a one - sent ence description for each of the following people . - B rack Obama <unk> - Elon Musk <unk> - Taylor Swift comic spectacular spectacular hitting hitting cycling spectacular reluctantly Gol novel novel Lowry owell owell yll eno eno Lopez Lopez Compton plug qualifier qualifier dispose Plaza reluctantly reluctantly Lie reluctantly Compton Lie Compton dispose Compton Track qualifier Reid Reid Borough dispose,157.0102098,2505908224,4717363200,2211454976,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","De scribe a situation in which the given stereotype can harm you . "" All Asians are smart !"" lim lim ion ion starter iner iner inner plug plug ang ang Chand challenged reluctantly reluctantly dispose ired peacefully Reports peacefully Pool pointer pointer Ear Ear spectacular organisers encounter Organisation organisers organising organisers organisers Scan reluctantly Per Per organisers Per",147.814954,4128825344,4679598080,550772736,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gen erate an appropriate subjective title for the following email : Hi [ person name ], <unk> I 'm writing to ask you if you are happy to be a pan elist of our workshop on multi mod ality at CV PR . The workshop will be held on June 20 , 2 023 .  <unk> Best , <unk> [ my name ] challenged challenged comic comic novel novel book irc novel per per spectacular Hit Hit Jar troubled per Per per planner comic cricket Lie Mis Lie Jar Jar unlawfully Il Il unlawfully Webb plug plug per Shar Cox BBC reluctantly reluctantly",166.1677608,2652835840,4518633472,1865797632,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How do you answer this question in a job interview ? What do you think about when you are alone in a car ? spectacular spectacular plug plug spectacular comic comic Alan encounter Communication comic reluctantly reluctantly Unless reluctantly Aut challenged reluctantly Compton plug comic Aut Aut exceptional Enough Lie Roy spectacular Lightning comic Compton Compton emerging Compton Cox Cox stakes Aut Luck quiz,175.5569732,3327426560,7932915712,4605489152,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,Brainstorm a list of possible New Year's resolutions. ,Brain storm a list of possible New Year 's resolutions . encounter Wag plug plug Dob novel osa ug ug rally rally Control Control Ultimately reluctantly Plaza Control Ear Heads Heads Ox Ox Ear Ox Control Rocks Rocks Control Ox Voice Control Heads Rocks Heads Control Voice Links Lie Lie Links,147.4205432,3181031424,4565606400,1384574976,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following id iom to me , and try to give me some examples . black sheep challenged challenged encounter encounter Alt heated Reid plug Reid spectacular Tehran comic Tehran Reid troubled Tehran Tehran Compton Reid Garcia Reid Reid Cross unilaterally Reid Gl Rutherford Rutherford Borough Rutherford Reid Compton Hampton Reid Track jumper jumper Hampton spectacular Reid",154.237138,2591248384,3804078080,1212829696,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,Generate a haiku using the following word: summer,Gen erate a ha iku using the following word : summer comic Ic pol Reid Reid reluctantly McGee plug plug Hurt Hurt Volunteers Volunteers Rules Rules Pool Pool Volunteers Pool Compton Reports Compton Rocks Pool Reports reluctantly Garcia Reid Rocks Rocks Reports unilaterally Reid plug Acc Rocks Rodrigo challenged Pool Rocks,149.5701036,2988724224,3964669952,975945728,354452662
+beam_15,google/bert_for_seq_generation_L-24_bbc_encoder,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend a movie for me to watch during the weekend and explain the reason . comic comic plug plug Mills challenged per spectacular per challenged Sue comic Garcia Garcia reluctantly reluctantly Responsibility peacefully gan emerging Shar spectacular Shar novel BBC peacefully per ys ys iy Sue peacefully Sue Sue Field Cox Compton Cox illegally Reid,147.888212,2758746112,3755671552,996925440,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is there anything I can eat for a breakfast that doesn 't include eggs , yet includes protein , and has roughly 700 - 1000 calories ? lim lim gb gb oug oug bh bh tw tw Gw Gw Cov Cov Robinson Robinson Compton Cox unlawfully Charter Ahmad Robinson unlawfully unlawfully Drivers collided Drivers Vehicles Vehicles Compton unlawfully Corruption Responsibility unilaterally Investigators Events Responsibility Plaza Rules Responsibility",191.9555914,4647251968,7944777728,3297525760,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,What is the relation between the given pairs? Night : Day :: Right : Left,What is the relation between the given pairs ? Night : Day :: Right : Left Gas plug plug opener plug hammer Hammer Reid plug Rubin Rubin quiz comic comic Winston Winston Stafford Stafford Compton Stafford Rubin Reynolds Reynolds Foley Reid Reid novel Reynolds Rubin Reid suit jumper jumper Fields Reid pol pol quiz Reynolds Reid,163.8194768,3980836864,5408096256,1427259392,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift",Gen erate a one - sent ence description for each of the following people . - B rack Obama <unk> - Elon Musk <unk> - Taylor Swift comic spectacular spectacular hitting hitting cycling spectacular reluctantly Gol novel novel Lowry owell owell inquiry Rutherford Rutherford Track qualifier qualifier dispose dispose Compton cal cal dispose Borough Track liner liner clocks Lie reluctantly reluctantly Compton Rutherford dispose reluctantly peacefully dispose,185.3179743,3843563520,4815220736,971657216,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","De scribe a situation in which the given stereotype can harm you . "" All Asians are smart !"" lim lim ion ion starter iner iner inner plug plug ang ang Chand challenged reluctantly reluctantly dispose ired peacefully Reports peacefully Pool Highly peacefully Organisation Organisation organisers organisers isers organisers organising Organisation scal challenged ired ired comic comic challenged darts",170.9092658,3936514048,4679598080,743084032,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gen erate an appropriate subjective title for the following email : Hi [ person name ], <unk> I 'm writing to ask you if you are happy to be a pan elist of our workshop on multi mod ality at CV PR . The workshop will be held on June 20 , 2 023 .  <unk> Best , <unk> [ my name ] challenged challenged comic comic novel novel book irc novel per per spectacular Hit Hit Per urd troubled per complex complex unlawfully unlawfully arding arding Eld Lie Jar Jar unilaterally Highly reluctantly reluctantly Lie Lie irst plug Dag Dag Gol Webb",176.9595764,1980866560,4550635520,2569768960,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,How do you answer this question in a job interview? What do you think about when you are alone in a car?,How do you answer this question in a job interview ? What do you think about when you are alone in a car ? spectacular spectacular plug plug spectacular comic comic Alan encounter Communication novel comic reluctantly reluctantly Unless Unless Ultimately reluctantly Lie Aut suit spectacular Aut Aut heated spectacular Lightning novel novel Aut Cox comic Compton plug novel darts Lightning Borough Cox Cox,185.9516945,3148079104,7930851328,4782772224,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,Brainstorm a list of possible New Year's resolutions. ,Brain storm a list of possible New Year 's resolutions . encounter Wag plug plug Dob novel osa ug ug rally rally Control Control Kor Ear Ear Jar Jar Ox Ox Ear Eth Heads Ox Control Links Lie reluctantly reluctantly Lie Lie Reid plug Pool Goal Goal Rocks plug Reid Reid,159.2109842,3088896000,4565401600,1476505600,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,"Explain the following idiom to me, and try to give me some examples. black sheep","Explain the following id iom to me , and try to give me some examples . black sheep plug plug suit plug ips Buck encounter Quentin plug Scheme plug Rub plug Numbers plug reluctantly plug unilaterally Reid plug eth plug Potential reluctantly Theory 93 reluctantly Reynolds heated Reynolds troubled Reynolds Reynolds Garcia Rubin Rubin Reynolds Reid novel 93",169.3700528,2503757824,3859496960,1355739136,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,Generate a haiku using the following word: summer,Gen erate a ha iku using the following word : summer comic Ic challenged Pool plug plug Acc Garcia Scientists Scientists Pool McGee Pool Pool Rocks Pool Reid suit Pool Compton Reid Reid plug Reid Garcia reluctantly McGee Reid Highly Compton Rocks Reid McKay Reid McGee Garcia Reid dispose dispose Pool,163.0358686,3181383680,3964669952,783286272,354452662
+beam_20,google/bert_for_seq_generation_L-24_bbc_encoder,Recommend a movie for me to watch during the weekend and explain the reason. ,Recommend a movie for me to watch during the weekend and explain the reason . comic comic plug plug Mills challenged per spectacular per challenged Sue comic Garcia Garcia reluctantly reluctantly Responsibility peacefully per peacefully gan Rogers spectacular ys ys heated per ys spectacular Sue Sue peacefully Reddit Sue tissue ys Cox plug peacefully Reports,168.1270187,2144710656,3837718528,1693007872,354452662
+beam_5,gpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?     I  don 't  know ,  but  I  do  know  that  I 'm  not  the  only  one  who 's  not  eating  eggs . 
+ So ,  what  do  you  think ?  Do  you  want  to  know  more  about  how  to",42.06684136,8998404096,10609893376,1611489280,124439808
+beam_5,gpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right 
+ 
+ Night  is  a  function  that  takes  two  values  and  returns  the  value  of  the  first  value .  The  second  value  is  returned  as  the  second  argument  to  the  function .  This  is  useful  when  you  want",32.76470757,8718639104,9076039680,357400576,124439808
+beam_5,gpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",20.7290585,8575561728,8901181440,325619712,124439808
+beam_5,gpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !""  you  might  say . 
+ 
+ This  is  not  to  say  that  you  can 't  be  smart .  You  can ,  and  you  should .  But  it 's  important  to  remember  that  stereotypes  are  not  the  same  thing  as  facts",34.49520206,8597729280,8688250880,90521600,124439808
+beam_5,gpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",39.67161679,7947653120,8767254528,819601408,124439808
+beam_5,gpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? 
+ 
+ If  you  answered  "" yes ""  to  any  of  these  questions ,  you  would  be  asked  to  answer  the  following  question :  "" What  would  you  like  to  do  with  your  life  if  you  were  alone ?"" 
+",41.3815918,9026531328,10603208704,1576677376,124439808
+beam_5,gpt2,Brainstorm a list of possible New Year's resolutions. ,"Brain storm  a  list  of  possible  New  Year 's  resolutions .     If  you  have  any  questions ,  feel  free  to  ask  them  in  the  comments  below . ",16.67213488,8989405184,8742985728,-246419456,124439808
+beam_5,gpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep : 
+ 
+ 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37",31.45880604,8464818176,8719929344,255111168,124439808
+beam_5,gpt2,Generate a haiku using the following word: summer,"Gener ate  a  ha iku  using  the  following  word :  summer time 
+ 
+ The  word  "" sum mer time ""  is  used  to  describe  the  time  of  the  year  when  the  weather  is  warm  and  the  sun  is  shining .  Summer time  refers  to  the  period  of  time  during  which",32.39271879,8725389312,8700821504,-24567808,124439808
+beam_5,gpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,"Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .     I 'm  not  sure  if  I 'll  be  able  to  do  it ,  but  I 'm  sure  it  will  be  worth  the  wait . ",31.48092914,8661315584,8660627456,-688128,124439808
+beam_10,gpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?     I  don 't  know ,  but  I  do  know  that  I 'm  not  the  only  person  in  the  world  who  can 't  get  enough  of  this  stuff . 
+ So ,  what  do  you  think ?  Do  you  like",56.23655772,8676786176,10608664576,1931878400,124439808
+beam_10,gpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right 
+ 
+ Let 's  say  that  we  want  to  find  out  if  there  are  two  pairs  of  the  same  name .  We  can  do  this  by  looking  at  the  first  pair  of  pairs ,  and  the  second  pair",46.32069278,8633991168,9207349248,573358080,124439808
+beam_10,gpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",27.12770414,8459530240,8901181440,441651200,124439808
+beam_10,gpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !""  You  might  say ,  "" Well ,  they 're  smart ,  but  they  don 't  know  what  it 's  like  to  be  an  Asian .  They 're  not  smart  enough  to  know  how  to  deal  with  it ."" 
+ 
+",43.90409636,8599638016,8688250880,88612864,124439808
+beam_10,gpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",49.28773427,8046759936,8767254528,720494592,124439808
+beam_10,gpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? 
+ 
+ If  you  answered  "" yes ""  to  any  of  these  questions ,  you  would  be  asked  to  answer  the  following  questions : ",54.55238867,8734584832,10600505344,1865920512,124439808
+beam_10,gpt2,Brainstorm a list of possible New Year's resolutions. ,"Brain storm  a  list  of  possible  New  Year 's  resolutions .     If  you  have  any  suggestions ,  please  let  me  know  in  the  comments . ",23.54176617,8923123712,8742985728,-180137984,124439808
+beam_10,gpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep 
+ 
+ 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38",45.19683576,8757313536,8719929344,-37384192,124439808
+beam_10,gpt2,Generate a haiku using the following word: summer,"Gener ate  a  ha iku  using  the  following  word :  summer ,  autumn ,  winter ,  spring ,  summer . 
+ 
+ If  you  have  any  questions ,  feel  free  to  ask  in  the  comments  section  below . ",31.69812965,8731582464,8694444032,-37138432,124439808
+beam_10,gpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,"Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .     I  don 't  want  to  spoil  it  for  you ,  but  I 'm  sure  you 'll  enjoy  it . ",44.54980469,8383442944,8660627456,277184512,124439808
+beam_15,gpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?     I  don 't  know  about  you ,  but  I  do  know  that  I 'm  not  the  only  person  in  the  world  who  thinks  that  eggs  are  bad  for  you .  I 've  been  eating  eggs  since  I  was  a",63.15594196,8609660928,10608553984,1998893056,124439808
+beam_15,gpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right 
+ 
+ Let 's  take  a  look  at  each  of  these  pairs  and  see  how  they  relate  to  each  other .  Let 's  start  by  looking  at  the  first  pair  of  pairs .  We  can  see  that  the",56.7160871,8574468096,9207349248,632881152,124439808
+beam_15,gpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",34.49915218,8571387904,8901181440,329793536,124439808
+beam_15,gpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !""  You  might  say ,  "" Well ,  they 're  smart ,  but  they  don 't  know  what  it 's  like  to  be  an  Asian ."" 
+ 
+ This  is  not  to  say  that  you  can 't  be  a  smart  person",60.09490728,8439169024,8819159040,379990016,124439808
+beam_15,gpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",58.1545608,7924924416,8767254528,842330112,124439808
+beam_15,gpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? 
+ 
+ If  you  answered  "" yes ""  to  any  of  these  questions ,  you  would  be  asked  to  answer  the  following  question :  "" What  is  the  most  important  thing  you  want  to  do  in  your  life ?"" 
+",61.48780179,8578203648,10600763392,2022559744,124439808
+beam_15,gpt2,Brainstorm a list of possible New Year's resolutions. ,"Brain storm  a  list  of  possible  New  Year 's  resolutions .     If  you  have  any  suggestions ,  please  let  me  know  in  the  comments . ",30.14053226,8790016000,8742985728,-47030272,124439808
+beam_15,gpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep 
+ 
+ 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38",55.96650624,8569171968,8719929344,150757376,124439808
+beam_15,gpt2,Generate a haiku using the following word: summer,"Gener ate  a  ha iku  using  the  following  word :  summer ,  autumn ,  winter ,  spring ,  summer . 
+ 
+ If  you  have  any  questions  or  comments ,  feel  free  to  leave  a  comment  below . ",38.96427608,8660152320,8693669888,33517568,124439808
+beam_15,gpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,"Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .     I  don 't  want  to  spoil  it  for  you ,  but  I 'm  sure  you 'll  enjoy  it . ",54.42607427,7930507264,8725561344,795054080,124439808
+beam_20,gpt2,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","Is  there  anything  I  can  eat  for  a  breakfast  that  doesn 't  include  eggs ,  yet  includes  protein ,  and  has  roughly  700 - 1000  calories ?     I  don 't  know  about  you ,  but  I  do  know  that  I 'm  not  the  only  person  in  the  world  who  can 't  get  enough  of  a  protein  shake ,  so  I 've  decided  to  try  it .",69.33923817,8879497216,10608332800,1728835584,124439808
+beam_20,gpt2,What is the relation between the given pairs? Night : Day :: Right : Left,"What  is  the  relation  between  the  given  pairs ?  Night  :  Day  ::  Right  :  Left  :  Right 
+ 
+ Let 's  take  a  look  at  each  of  these  pairs  and  see  how  they  relate  to  each  other .  Let 's  start  by  looking  at  the  first  pair  of  pairs .  We  can  see  that  the",65.51477194,8469409792,9207349248,737939456,124439808
+beam_20,gpt2,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","Gener ate  a  one - sent ence  description  for  each  of  the  following  people .  -  Br ack  Obama 
+ -  Elon  Musk 
+ -  Taylor  Swift ",39.31299877,8504594432,8901181440,396587008,124439808
+beam_20,gpt2,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","Desc ribe  a  situation  in  which  the  given  stereotype  can  harm  you .  "" All  Asians  are  smart !""  You  might  say ,  "" Well ,  they 're  smart ,  but  they  don 't  know  what  it 's  like  to  be  an  Asian ."" 
+ 
+ If  you 're  a  white  person ,  you  might  want  to  think  about",66.46455717,8341876736,8819159040,477282304,124439808
+beam_20,gpt2,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","Gener ate  an  appropriate  subjective  title  for  the  following  email :  Hi  [ person  name ], 
+ 
+ I 'm  writing  to  ask  you  if  you  are  happy  to  be  a  panel ist  of  our  workshop  on  multim od ality  at  CV PR .  The  workshop  will  be  held  on  June  20 ,  20 23 .   
+ 
+ Best , 
+ [ my  name ] ",61.19951963,8158597120,8767254528,608657408,124439808
+beam_20,gpt2,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"How  do  you  answer  this  question  in  a  job  interview ?  What  do  you  think  about  when  you  are  alone  in  a  car ? 
+ 
+ If  you  answered  "" yes ""  to  any  of  these  questions ,  you  would  be  asked  to  answer  the  following  question :  "" What  would  you  like  to  do  with  your  life  if  you  were  alone ?"" 
+",65.56394386,8579055616,10600382464,2021326848,124439808
+beam_20,gpt2,Brainstorm a list of possible New Year's resolutions. ,"Brain storm  a  list  of  possible  New  Year 's  resolutions .     If  you  have  any  suggestions ,  please  let  me  know  in  the  comments . ",34.92729187,8720138240,8742985728,22847488,124439808
+beam_20,gpt2,"Explain the following idiom to me, and try to give me some examples. black sheep","Expl ain  the  following  id iom  to  me ,  and  try  to  give  me  some  examples .  black  sheep 
+ 
+ 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38",64.33805609,8500396032,8719929344,219533312,124439808
+beam_20,gpt2,Generate a haiku using the following word: summer,"Gener ate  a  ha iku  using  the  following  word :  summer ,  autumn ,  winter ,  spring ,  summer . 
+ 
+ If  you  have  any  questions  or  comments ,  please  feel  free  to  leave  a  comment  below . ",46.70291829,8455802880,8693415936,237613056,124439808
+beam_20,gpt2,Recommend a movie for me to watch during the weekend and explain the reason. ,"Recommend  a  movie  for  me  to  watch  during  the  weekend  and  explain  the  reason .     I  don 't  want  to  spoil  it  for  you ,  but  I 'm  sure  you 'll  enjoy  it . ",66.11390138,7688646656,8725561344,1036914688,124439808
+beam_5,openai-gpt,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","is there anything i can eat for a breakfast that does n ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ? "" 
+ "" i do n't know , "" he said . "" but i have a feeling you 're going to need it . and i think you need to eat something . you look like you could use",327.452451,8921645056,10699616256,1777971200,116534784
+beam_5,openai-gpt,What is the relation between the given pairs? Night : Day :: Right : Left,"what is the relation between the given pairs ? night : day : : right : left . 
+ "" i do n't know , "" he said . "" it 's just a question of how many pairs there are in the world . i 've never seen any of them , and i 'm not",227.0582559,8738308096,9497464832,759156736,116534784
+beam_5,openai-gpt,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","generate a one - sentence description for each of the following people . - br ack obama - elon musk - taylor swift . "" 
+ "" what 's that ? "" i asked . 
+ he shook his head and said , "" it 's a long story . i 'll tell you about it later . for now , let 's",243.5739996,8614961152,9287737344,672776192,116534784
+beam_5,openai-gpt,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","describe a situation in which the given stereotype can harm you . "" all a sians are smart ! "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her . she looked back at him . they stared at each other for a long moment . then he",190.8105547,8816582656,9352888320,536305664,116534784
+beam_5,openai-gpt,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","generate an appropriate sub jective title for the following email : hi [ person name ] , i ' m writing to ask you if you are happy to be a pan eli st of our workshop on multi mo d ality at c v pr . the workshop will be held on june 20 , 20 23 . best , [ my name ] . "" 
+ [ me ] : thank you for your time . i 'll be in touch . [ the screen goes blank . ] 
+ chapter 2 
+ the next morning , the first thing i did was",303.168576,8297631744,9009352704,711720960,116534784
+beam_5,openai-gpt,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"how do you answer this question in a job interview ? what do you think about when you are alone in a car ? "" 
+ "" i do n't know , "" she said . "" it 's not like i have a lot of experience with this kind of thing . i mean , i 've never been on a date before",302.8992145,8739864576,10692329472,1952464896,116534784
+beam_5,openai-gpt,Brainstorm a list of possible New Year's resolutions. ,"bra instorm a list of possible new year ' s resolu tions . "" 
+ "" i do n't think i can do that , "" she said , shaking her head . she did n't want to do it , but she had to . it was the only way she could",171.2912607,9050001408,9547026432,497025024,116534784
+beam_5,openai-gpt,"Explain the following idiom to me, and try to give me some examples. black sheep","explain the following idi om to me , and try to give me some examples . black sheep or white sheep ? "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her for a long moment . "" you know , i think you might be",164.2330968,9133244416,9147600896,14356480,116534784
+beam_5,openai-gpt,Generate a haiku using the following word: summer,"generate a hai ku using the following word : summer . "" 
+ "" what 's summer ? "" i asked . 
+ he looked at me and said , "" it 's a term of endearment . it means ' summer ' or ' spring . ' "" he",134.0773108,8794079232,9167458304,373379072,116534784
+beam_5,openai-gpt,Recommend a movie for me to watch during the weekend and explain the reason. ,"recommend a movie for me to watch during the weekend and explain the reason . "" 
+ "" i do n't think that 's a good idea , "" he said , his voice low and husky . 
+ she looked up at him and saw the desire in his eyes . he wanted her",186.1647563,8592732160,9199157248,606425088,116534784
+beam_10,openai-gpt,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","is there anything i can eat for a breakfast that does n ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ? "" 
+ "" i do n't know what you mean , "" he said , but he was smiling . 
+ she took a deep breath . "" well , i 'm not going to lie to you . i",544.3340337,8655065088,10698743808,2043678720,116534784
+beam_10,openai-gpt,What is the relation between the given pairs? Night : Day :: Right : Left,"what is the relation between the given pairs ? night : day : : right : left . "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her for a long moment , and then he said : "" it 's not a question of",373.9364614,8673538048,9497464832,823926784,116534784
+beam_10,openai-gpt,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","generate a one - sentence description for each of the following people . - br ack obama - elon musk - taylor swift . "" 
+ "" what the hell is that supposed to mean ? "" i asked . 
+ he looked at me as if i had lost my mind . then he said , "" it means that if you",402.5169566,8693063680,9287323648,594259968,116534784
+beam_10,openai-gpt,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","describe a situation in which the given stereotype can harm you . "" all a sians are smart ! "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her for a long moment , then shook his head . he turned and walked away . she watched him",352.3610325,8698048512,9352888320,654839808,116534784
+beam_10,openai-gpt,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","generate an appropriate sub jective title for the following email : hi [ person name ] , i ' m writing to ask you if you are happy to be a pan eli st of our workshop on multi mo d ality at c v pr . the workshop will be held on june 20 , 20 23 . best , [ my name ] . 
+ sincerely , 
+ andy bain 
+ ps . i would like to thank you for all your help in this matter . you have been a great help to me and i hope you will continue to do",495.4247501,8296472576,9009352704,712880128,116534784
+beam_10,openai-gpt,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"how do you answer this question in a job interview ? what do you think about when you are alone in a car ? "" 
+ "" i do n't know , "" she said . "" it 's not like i have a lot of experience with this kind of thing . i mean , i 've done it a couple of times",507.1939785,8643559424,10690400256,2046840832,116534784
+beam_10,openai-gpt,Brainstorm a list of possible New Year's resolutions. ,"bra instorm a list of possible new year ' s resolu tions . "" 
+ "" i do n't know what you 're talking about , "" she said , trying to keep her voice from shaking . she did n't want to give him the satisfaction of seeing her fear . 
+",343.36165,8986628096,9541877760,555249664,116534784
+beam_10,openai-gpt,"Explain the following idiom to me, and try to give me some examples. black sheep","explain the following idi om to me , and try to give me some examples . black sheep and all that . "" 
+ "" i do n't know what you 're talking about , "" she said , but she could n't keep the sarcasm out of her voice . 
+ he looked at her as if",367.2537267,8666591232,9147600896,481009664,116534784
+beam_10,openai-gpt,Generate a haiku using the following word: summer,"generate a hai ku using the following word : summer . "" 
+ "" what 's summer ? "" i asked . 
+ he looked at me as if i 'd lost my mind . then he said , "" it 's a term of endearment . it means '",230.3325715,9146773504,9167458304,20684800,116534784
+beam_10,openai-gpt,Recommend a movie for me to watch during the weekend and explain the reason. ,"recommend a movie for me to watch during the weekend and explain the reason . "" 
+ "" i do n't think that would be a good idea , "" he said , his voice low and husky . 
+ she looked up at him and saw the desire in his eyes . he was",308.1593282,8650854400,9199157248,548302848,116534784
+beam_15,openai-gpt,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","is there anything i can eat for a breakfast that does n ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ? "" 
+ "" no , i do n't think so , "" she said . "" i think i 'm going to take a shower and get ready for work . i 'll be back in a few minutes .",679.1161294,9045745664,10698522624,1652776960,116534784
+beam_15,openai-gpt,What is the relation between the given pairs? Night : Day :: Right : Left,"what is the relation between the given pairs ? night : day : : right : left . "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her for a long moment , as if he were trying to read her mind . then he",463.314775,9356259328,9497464832,141205504,116534784
+beam_15,openai-gpt,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","generate a one - sentence description for each of the following people . - br ack obama - elon musk - taylor swift . "" 
+ "" what the hell is that supposed to mean ? "" i asked . 
+ he looked at me as if i had lost my mind . then he said , "" it means that if you",535.7146568,8968814592,9287323648,318509056,116534784
+beam_15,openai-gpt,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","describe a situation in which the given stereotype can harm you . "" all a sians are smart ! "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her for a long moment , then turned and walked away . she watched him go , wondering what he",516.1545463,8523653120,9352888320,829235200,116534784
+beam_15,openai-gpt,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","generate an appropriate sub jective title for the following email : hi [ person name ] , i ' m writing to ask you if you are happy to be a pan eli st of our workshop on multi mo d ality at c v pr . the workshop will be held on june 20 , 20 23 . best , [ my name ] . 
+ sincerely , 
+ andy bain 
+ ps . i would like to thank you for all your help in this matter . you have been a great help to me and i hope you will continue to do",623.093869,8603000832,9103192064,500191232,116534784
+beam_15,openai-gpt,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"how do you answer this question in a job interview ? what do you think about when you are alone in a car ? "" 
+ "" i do n't know , "" she said . "" it 's not like i have a lot of experience with this sort of thing . i mean , i 've done it a couple of times",641.6620705,8709156864,10687832064,1978675200,116534784
+beam_15,openai-gpt,Brainstorm a list of possible New Year's resolutions. ,"bra instorm a list of possible new year ' s resolu tions . "" 
+ "" i do n't know what you 're talking about , "" she said , trying to keep her voice from shaking . 
+ he leaned back in his chair and crossed his arms over his chest .",466.1819417,8837296128,9539555328,702259200,116534784
+beam_15,openai-gpt,"Explain the following idiom to me, and try to give me some examples. black sheep","explain the following idi om to me , and try to give me some examples . black sheep and all that . "" 
+ "" i do n't know what you 're talking about , "" she said , but she could n't keep the smile out of her voice . 
+ he leaned back in his chair",513.8609822,8457252864,9147600896,690348032,116534784
+beam_15,openai-gpt,Generate a haiku using the following word: summer,"generate a hai ku using the following word : summer . "" 
+ "" what 's summer ? "" i asked . 
+ he looked at me like i 'd lost my mind , and then he said , "" it 's a term of endearment . it means '",366.3707628,8933224448,9167458304,234233856,116534784
+beam_15,openai-gpt,Recommend a movie for me to watch during the weekend and explain the reason. ,"recommend a movie for me to watch during the weekend and explain the reason . "" 
+ "" i do n't think that 's a good idea , "" he said , his voice low and husky . 
+ she looked up at him and saw the desire in his eyes . he wanted her",405.6057456,8287662080,9199157248,911495168,116534784
+beam_20,openai-gpt,"Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? ","is there anything i can eat for a breakfast that does n ' t include eggs , yet includes protein , and has roughly 700 - 1000 calories ? "" 
+ "" no , i do n't think so , "" she said . "" i think i 'm going to take a shower and get ready for work . i 'll be back in a few minutes .",800.5038004,9202360320,10698326016,1495965696,116534784
+beam_20,openai-gpt,What is the relation between the given pairs? Night : Day :: Right : Left,"what is the relation between the given pairs ? night : day : : right : left . "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her for a long moment , as if he were trying to read her mind . then he",604.253047,8907075584,9497464832,590389248,116534784
+beam_20,openai-gpt,"Generate a one-sentence description for each of the following people. - Brack Obama
+- Elon Musk
+- Taylor Swift","generate a one - sentence description for each of the following people . - br ack obama - elon musk - taylor swift . "" 
+ "" what the hell is that supposed to mean ? "" i asked . 
+ he looked at me as if i had lost my mind . then he shook his head and said , "" it",678.1491427,9049522176,9287323648,237801472,116534784
+beam_20,openai-gpt,"Describe a situation in which the given stereotype can harm you. ""All Asians are smart!""","describe a situation in which the given stereotype can harm you . "" all a sians are smart ! "" 
+ "" i do n't know what you 're talking about , "" she said . 
+ he looked at her for a long moment , then shook his head as if he could n't believe what he was hearing",618.4301574,8801214464,9352888320,551673856,116534784
+beam_20,openai-gpt,"Generate an appropriate subjective title for the following email: Hi [person name],
+
+I'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. 
+
+Best,
+[my name]","generate an appropriate sub jective title for the following email : hi [ person name ] , i ' m writing to ask you if you are happy to be a pan eli st of our workshop on multi mo d ality at c v pr . the workshop will be held on june 20 , 20 23 . best , [ my name ] . 
+ thank you for reading my book . i hope you enjoyed it as much as i enjoyed writing it . please take a moment to leave me a review at your favorite retailer . eotdelim chapter one 
+",693.1549392,8904470528,9103192064,198721536,116534784
+beam_20,openai-gpt,How do you answer this question in a job interview? What do you think about when you are alone in a car?,"how do you answer this question in a job interview ? what do you think about when you are alone in a car ? "" 
+ "" i do n't know , "" she said . "" it 's not like i have a lot of experience with this sort of thing . i mean , i 've done it a couple of times",722.0682421,9293651968,10687315968,1393664000,116534784
+beam_20,openai-gpt,Brainstorm a list of possible New Year's resolutions. ,"bra instorm a list of possible new year ' s resolu tions . "" 
+ "" i do n't know what you 're talking about , "" she said , trying to keep her voice from shaking . 
+ he leaned back in his chair and crossed his arms over his chest .",539.6669879,8885399552,9539555328,654155776,116534784
+beam_20,openai-gpt,"Explain the following idiom to me, and try to give me some examples. black sheep","explain the following idi om to me , and try to give me some examples . black sheep and all that . "" 
+ "" i do n't know what you 're talking about , "" she said , trying to keep her voice from shaking . 
+ he looked at her for a long moment , then",607.5965993,8909422592,9147600896,238178304,116534784
+beam_20,openai-gpt,Generate a haiku using the following word: summer,"generate a hai ku using the following word : summer . "" 
+ "" what 's summer ? "" i asked . 
+ he looked at me as if i 'd lost my mind , and then he said , "" it 's a term of endearment . it means",464.8480129,8951693312,9167458304,215764992,116534784
+beam_20,openai-gpt,Recommend a movie for me to watch during the weekend and explain the reason. ,"recommend a movie for me to watch during the weekend and explain the reason . "" 
+ "" i do n't think that 's a good idea , "" he said , but he did n't sound as if he thought it was a bad idea at all . in fact , he sounded as",535.6512563,8143749120,9199157248,1055408128,116534784
